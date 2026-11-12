@@ -26,9 +26,9 @@ Kế hoạch content cuối năm 11.11 → Tết · Ghét làm content một mì
 Thư mục gốc Drive: [xaykenhdi_ - Video](https://drive.google.com/drive/folders/1MO3YP5FaGS9Swz-Yq9vG2NcOF3Momxum)
 | # | Video | Thư mục | Kịch bản (Doc) | 1-nguon (id) | 2-xuat (id) | Trạng thái |
 |---|---|---|---|---|---|---|
-| 16 | 50 câu mở đầu copy dùng ngay | [mở](https://drive.google.com/drive/folders/1jPAuzaIwIzTbaXi5VLxw5iwrt22r96GB) | [Doc](https://docs.google.com/document/d/17jHnfARbGGuZflBuYLwTrY8ZaVTUxxpj06MlFBG7wdg/edit) | 1xUFTtb5d31gqrNYPx4zCHOPOdze2ZVNU | 1aSzHCSDu5fEPRWZFy0SJIPPvK9NpQ5Mz | ✅ đã dựng với clip 1.mov (gửi qua chat); chờ chủ kênh góp ý |
-| 17 | 50 phông chữ Việt hoá trong canva | [mở](https://drive.google.com/drive/folders/1pQsuAOOJ-yrs5eTQ7XiMGwIg_Y3mqxkp) | [Doc](https://docs.google.com/document/d/1nBWi6m4pLNuTmsgJeqvflNKlnneTtYoJT-KaQxTOBqY/edit) | 165VDsCKGNXcbyp3V3l0w_yCQ6F6t4LbP | 1zwbsDUtJM3foH9jMk_oGZf-2-TdT8ceb | chờ duyệt script + kiểm phông + chờ clip |
-| 18 | Người hướng nội: 30 ngày, 30 video | [mở](https://drive.google.com/drive/folders/18D3TDDNuD6zNAIL2pxzfop4Fnbrl2sAg) | [Doc](https://docs.google.com/document/d/1TL-uzTULmk99QLNQo2jMz9nhx1aYfsjrUWkVZiOANi0/edit) | 1tXkumAuXfZ_tKlOJFKa1wlWAl5gHPUWA | 1HW78f9KWS1OAOjntpzvaLhOZDJRUfQZz | chờ duyệt script + chờ clip |
+| 16 | 50 câu mở đầu copy dùng ngay | [mở](https://drive.google.com/drive/folders/1jPAuzaIwIzTbaXi5VLxw5iwrt22r96GB) | [Doc](https://docs.google.com/document/d/17jHnfARbGGuZflBuYLwTrY8ZaVTUxxpj06MlFBG7wdg/edit) | 1xUFTtb5d31gqrNYPx4zCHOPOdze2ZVNU | 1aSzHCSDu5fEPRWZFy0SJIPPvK9NpQ5Mz | ✅ đã dựng lại (hook từ khung 0), clip 1.mov; chờ góp ý |
+| 17 | 50 phông chữ Việt hoá trong canva | [mở](https://drive.google.com/drive/folders/1pQsuAOOJ-yrs5eTQ7XiMGwIg_Y3mqxkp) | [Doc](https://docs.google.com/document/d/1nBWi6m4pLNuTmsgJeqvflNKlnneTtYoJT-KaQxTOBqY/edit) | 165VDsCKGNXcbyp3V3l0w_yCQ6F6t4LbP | 1zwbsDUtJM3foH9jMk_oGZf-2-TdT8ceb | ✅ đã dựng, clip 2.mov; phông 10 đổi Bodoni Moda → Old Standard TT (thiếu dấu); chờ góp ý |
+| 18 | Người hướng nội: 30 ngày, 30 video | [mở](https://drive.google.com/drive/folders/18D3TDDNuD6zNAIL2pxzfop4Fnbrl2sAg) | [Doc](https://docs.google.com/document/d/1TL-uzTULmk99QLNQo2jMz9nhx1aYfsjrUWkVZiOANi0/edit) | 1tXkumAuXfZ_tKlOJFKa1wlWAl5gHPUWA | 1HW78f9KWS1OAOjntpzvaLhOZDJRUfQZz | ✅ đã dựng, clip 3.mov; chờ góp ý |
 
 ## Đang chờ quay
 - Edit video cực nhanh bằng AI (~60 s, 5 bước, CTA "PHẦN 2") — kịch bản trong Project "Edit video" trên claude.ai.

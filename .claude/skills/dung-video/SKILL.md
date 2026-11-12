@@ -24,4 +24,4 @@ Media (clip, mp4, wav, frames) để trong `work/`, không commit.
    - Clip nguồn: các thư mục `1-nguon` đã bật "ai có link đều xem" (chủ kênh cho phép 12/11). Tải bằng `curl -sSL -o work/srcNN/<tên> "https://drive.usercontent.google.com/download?id=<fileId>&export=download&confirm=t"` (lấy fileId bằng search_files `parentId = '<id 1-nguon>'`). Thư mục `1-nguon` tạo mới cũng phải bật chia sẻ link (share_file, permissionId `anyoneWithLink`, role `reader`).
    - Video xuất: gửi chủ kênh qua chat (SendUserFile); chỉ up vào `2-xuat` nếu file < 3 MB.
 5. Clip quay mặt: xem contact sheet, mặt ở nửa trên → dồn chữ xuống nửa dưới, thu nhỏ dòng, dùng giấy trơn (đường kẻ cắt ngang chữ nhỏ). Mẫu: `projects/16-50-cau-mo-dau/compose.py` (tự đổi bố cục khi có clip).
-
+6. Video dạng danh sách nhiều trang: dùng khung chung `listvid.py` (hook có sẵn từ khung 0, tự đổi bố cục khi có clip). Mẫu: `projects/16-*/compose.py` (câu có chỗ trống), `17-*` (mỗi dòng viết bằng chính phông đó — phông tải từ Google Fonts vào `work/fonts17/`, kiểm dấu bằng fontTools), `18-*` (lịch theo ngày).

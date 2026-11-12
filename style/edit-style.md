@@ -14,12 +14,13 @@
 Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy báo · vở lò xo · lịch xé · hoá đơn in nhiệt · bảng ghim · băng dính washi (có chữ) · sticker 3D bóng (`r3d`) · chữ cắt dán ransom · doodle vẽ tay trên giấy báo · Fluent Emoji · **bản đồ 3D isometric** (nền thành phố three.js, chữ vẫn trên giấy — xem `style/map-3d.md`).
 
 ## Bố cục & chuyển động
-- Hook đặt dưới mặt (y ≈ 1400–1900), giấy xoay nhẹ ±1–2°, bật vào bằng easeOutBack ~0,35 s.
+- Hook đặt dưới mặt (y ≈ 1400–1900), giấy xoay nhẹ ±1–2°, **có sẵn từ khung 0** (không hiệu ứng vào).
 - Thân: trang giấy trượt vào từ cạnh, dòng hiện dần cách 0,45 s và ở lại; trang cũ bay ra phía đối diện.
 - Câu chốt: giấy kem, 1–2 chữ tô nền xanh chuối; CTA trên washi vàng trượt vào từ phải.
 - Chữ không đè lên mặt; chừa ~350 px đáy cho UI TikTok/Reels.
 
 ## Quy tắc bắt buộc (chủ kênh đã chốt)
+- **Hook hiện đủ ngay từ khung đầu tiên (giây 0)** — không bật / trượt / mờ dần vào; chỉ được "thở" nhẹ tại chỗ. (12/11)
 - Danh sách / bước hiện dần và **ở lại**, không biến mất từng dòng.
 - **Không** thêm thanh đen hay hiệu ứng che chữ khi không được yêu cầu.
 - Không tự bịa CTA.

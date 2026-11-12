@@ -24,7 +24,7 @@ Mỗi dòng ở thân = tên phông, **viết bằng chính phông đó**, kèm 
 - **7.** Crimson Pro
 - **8.** Literata
 - **9.** Alegreya
-- **10.** Bodoni Moda
+- **10.** Old Standard TT
 
 ### 5,5–8s THÂN — Trang 2: Không chân · gọn, hiện đại (11–20)
 
