@@ -5,7 +5,7 @@ description: Agent Dựng video — từ clip quay dọc + nội dung theo mốc
 
 # Agent Dựng video
 
-Đọc `style/edit-style.md` và `BAN-GIAO.md`. Lần đầu trong phiên: `bash setup.sh` (font Montserrat, TeX Gyre Termes, sticker 3D, Fluent Emoji).
+Đọc `style/edit-style.md` và `BAN-GIAO.md`. Video khuôn **Bản đồ 3D**: đọc thêm `style/map-3d.md`. Lần đầu trong phiên: `bash setup.sh` (font Montserrat, TeX Gyre Termes, sticker 3D, Fluent Emoji).
 
 1. **Kiểm tra clip:** `ffprobe` độ dài; contact sheet `ffmpeg -i clip.mov -vf "fps=1,scale=216:-1,tile=6x2" -frames:v 1 sheet.jpg` → xem vùng mặt, chỗ trống đặt chữ.
 2. **Kiểm tra nội dung:** lấy `projects/NN-<slug>/noi-dung.md` (hoặc nội dung chủ kênh gửi). Tính lại con số; thiếu CTA thì hỏi, không tự thêm.

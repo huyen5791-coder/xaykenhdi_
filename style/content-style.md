@@ -26,6 +26,7 @@ Ba trụ chủ đề:
 - **Lộ trình / dòng thời gian:** 30 ngày chia 4 tuần; 1 buổi chiều chia khung giờ.
 - **Tính toán bóc trần:** hoá đơn, bảng lãi lỗ (bán càng nhiều càng lỗ, quảng cáo lỗ). **Kiểm tra lại phép tính trước khi giao.**
 - **Câu lệnh AI:** 3–5 câu lệnh cộng dồn, để đủ lâu cho người xem chụp màn hình.
+- **Bản đồ 3D:** kênh = thành phố isometric nhiều tầng, mỗi mục = 1 công trình, máy quay đi theo đường lên đỉnh. Hợp lộ trình / lên cấp / danh sách 4–8 mục. Quy tắc chi tiết: `style/map-3d.md`. Tối đa 1 video / 4 video.
 - **Câu hỏi đời thường:** "Đăng bao nhiêu bài là đủ?", "Giờ đăng tốt nhất?" → trả lời ngắn có lý do.
 
 ## Giọng văn

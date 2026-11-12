@@ -11,7 +11,7 @@
 - Handle `@xaykenhdi_` góc trên trái suốt video: pill xanh rêu, viền xanh chuối, có sao lấp lánh nhỏ.
 
 ## Chất liệu (đổi giữa các video, giữ màu + font)
-Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy báo · vở lò xo · lịch xé · hoá đơn in nhiệt · bảng ghim · băng dính washi (có chữ) · sticker 3D bóng (`r3d`) · chữ cắt dán ransom · doodle vẽ tay trên giấy báo · Fluent Emoji.
+Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy báo · vở lò xo · lịch xé · hoá đơn in nhiệt · bảng ghim · băng dính washi (có chữ) · sticker 3D bóng (`r3d`) · chữ cắt dán ransom · doodle vẽ tay trên giấy báo · Fluent Emoji · **bản đồ 3D isometric** (nền thành phố three.js, chữ vẫn trên giấy — xem `style/map-3d.md`).
 
 ## Bố cục & chuyển động
 - Hook đặt dưới mặt (y ≈ 1400–1900), giấy xoay nhẹ ±1–2°, bật vào bằng easeOutBack ~0,35 s.
