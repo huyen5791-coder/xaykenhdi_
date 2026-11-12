@@ -11,7 +11,8 @@ Khuôn mới (chủ kênh gửi ảnh mẫu 12/11/2026): **thành phố nhìn ng
 ## Bản đồ trông thế nào
 - **Đảo nổi** hình tròn bo, 3–5 **tầng bậc thang**, đường lát đá kem uốn từ cổng dưới lên đỉnh. Đỉnh = mục tiêu (vd "1.000 follow", "đơn đầu tiên") — **con số phải lấy từ nội dung đã duyệt**.
 - Phong cách **low-poly bo tròn, đồ chơi bóng** — cùng chất nhựa bóng với sticker `r3d` (không vẽ chi tiết hiện thực).
-- Màu theo brand: nền đất/đường kem `#FBF8ED`, cỏ & mái xanh rêu `#4D5549` + xanh chuối `#CDFD84`, gỗ/tường nâu `#4F3C35`, điểm nhấn hồng `#F1A0D6` / vàng `#FFFD60`. Trời: gradient kem → hồng nhạt, mây bông 3D.
+- **Màu theo ảnh mẫu (chủ kênh chốt 12/11), không dùng màu pastel brand cho bản đồ:** tường & đường đá xám trắng `#E2DED8` / `#D3CFC8`, vách tầng `#A9A49C`, cỏ xanh tươi `#6E9A38` / `#5C8830`, cây xanh đậm `#2E6636` `#3C7A3E` xen cây lá cam `#D3782B` `#C2532A`, mái tím `#3E336E` `#4B3D86`, mái xanh lá `#3E7A30`, mái ngói `#6E4128`, điểm nhấn vàng đồng `#E0AE3A`, đá đảo `#6B5B4D`. Nền: trời xanh ngọc nhạt `#9FBDB6` → `#D4E1DA`, dưới đảo là biển xanh đậm `#3E6358` → `#1D3631`, mây trắng. Màu brand (xanh chuối, hồng, kem) chỉ dùng cho chữ, giấy, nhãn dán phủ lên bản đồ.
+- Ánh sáng: nắng chiếu chéo có bóng đổ rõ, không làm dịu màu (không tone mapping) để màu tươi như ảnh mẫu.
 - **Mỗi mục nội dung = 1 công trình** có đồ vật nhận ra ngay (không cần đọc chữ cũng hiểu):
   | Ý | Công trình gợi ý |
   |---|---|
