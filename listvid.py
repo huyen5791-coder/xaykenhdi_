@@ -62,9 +62,13 @@ def run(cfg):
     pages=[(label, title, [row_items])], draw_row(dr, item, idx, rowh, clip, rowcolor), row_max_w(items, clip)->font sizes handled by draw_row,
     page_t0=3.0, page_dur=2.5, dur, emojis=(hook, outro), styles=[(color, kind)]"""
     SRC, OUT, PREVIEW = cfg['src'], cfg['out'], cfg.get('preview', False)
+    T = dict(ink=BROWN, hookA=CREAM, hookA_fg=BROWN, hookB=LIME, hookB_fg=GREEN, hookB_hl=YELLOW, sub=YELLOW, sub_fg=BROWN,
+             label_bg=GREEN, label_fg=YELLOW, label_sh=BROWN, title_fg=BROWN, tape=[YELLOW, LIME, PINK, LIME, PINK], hookA_tape=PINK,
+             out=CREAM, out_fg=BROWN, out_hl=LIME, doodle=RED, dots=GREEN, header_rule=None, ransom=False)
+    T.update(cfg.get('theme', {}))
     CLIP = SRC != 'none'
     DUR = cfg['dur']; NF = int(DUR * FPS); num = cfg['num']
-    HOOK_Y = [1450, 1690, 1920] if CLIP else [1150, 1400, 1650]
+    HOOK_Y = cfg.get('hook_y', [1450, 1690, 1920]) if CLIP else [1150, 1400, 1650]
 
     BG = None
     if not CLIP:
@@ -77,15 +81,24 @@ def run(cfg):
     big, acc, acc_hl, sub = cfg['hook']
     HANDLE = pill('@xaykenhdi_', F('Bold', 42), 80, GREEN, LIME, CREAM)
     fA = fit('Black', 132, big, 1100, 70)
-    LA, ma = paper_sheet(1200, 210, CREAM, num * 100 + 1, amp=10, cells=40)
-    ImageDraw.Draw(LA).text((ma + 600, ma + 105 + fA.size * 0.36), big, font=fA, fill=BROWN, anchor='ms')
-    LA.alpha_composite(tape(150, 46, num * 100 + 2, color=PINK, alpha=215), (ma - 30, ma - 22))
+    LA, ma = paper_sheet(1200, 210, T['hookA'], num * 100 + 1, amp=10, cells=40)
+    if T['ransom']:
+        tiles = ransom_word(big, 96, num * 100 + 7); tw = sum((t[0].width - 6) if t else 34 for t in tiles)
+        RW = Image.new('RGBA', (tw + 40, 200), (0, 0, 0, 0)); x = 20
+        for t in tiles:
+            if not t: x += 34; continue
+            RW.alpha_composite(t[0], (int(x), int(100 - t[0].height / 2 + t[1] * 0.5))); x += t[0].width - 6
+        sc = min(1, 1140 / RW.width); RW = RW.resize((int(RW.width * sc), int(RW.height * sc)), Image.LANCZOS)
+        LA.alpha_composite(RW, (int(ma + 600 - RW.width / 2), int(ma + 105 - RW.height / 2)))
+    else:
+        ImageDraw.Draw(LA).text((ma + 600, ma + 105 + fA.size * 0.36), big, font=fA, fill=T['hookA_fg'], anchor='ms')
+    LA.alpha_composite(tape(150, 46, num * 100 + 2, color=T['hookA_tape'], alpha=215), (ma - 30, ma - 22))
     LA = shadowed(rot(LA, -1.5), (7, 12), 10, 0.38)
     fB = fit('tbi', 118, acc, 820, 70)
-    LB, mb = paper_sheet(920, 175, LIME, num * 100 + 3, amp=11, cells=40)
-    hl_line(ImageDraw.Draw(LB), mb + 460, mb + 128, acc, acc_hl, fB, GREEN, YELLOW)
+    LB, mb = paper_sheet(920, 175, T['hookB'], num * 100 + 3, amp=11, cells=40)
+    hl_line(ImageDraw.Draw(LB), mb + 460, mb + 128, acc, acc_hl, fB, T['hookB_fg'], T['hookB_hl'])
     LB = shadowed(rot(LB, 1.8), (7, 12), 10, 0.38)
-    SUB = rot(washi(sub, fit('ExtraBold', 46, sub, 1150, 32), 100, YELLOW, BROWN, num * 100 + 5), -1.5)
+    SUB = rot(washi(sub, fit('ExtraBold', 46, sub, 1150, 32), 100, T['sub'], T['sub_fg'], num * 100 + 5), -1.5)
     E_HOOK = emoji(cfg['emojis'][0], 200); E_OUT = emoji(cfg['emojis'][1], 180)
 
     # ---- PAGES ----
@@ -93,7 +106,7 @@ def run(cfg):
     ROWH = cfg.get('rowh', (82, 112))[0 if CLIP else 1]
     STYLE = cfg.get('styles', [(CREAM, 'grid'), (PINK, 'plain'), (LIME, 'grid'), (YELLOW, 'plain'), (CREAM, 'lined')])
     if CLIP: STYLE = [(c, 'plain') for c, _ in STYLE]
-    TAPE = [YELLOW, LIME, PINK, LIME, PINK]
+    TAPE = T['tape']
     fHead = F('ExtraBold', 40)
     PAGES = []
     for pi, (label, title, items) in enumerate(cfg['pages']):
@@ -102,20 +115,22 @@ def run(cfg):
         S, m = paper_sheet(PW, ph, col, num * 100 + 10 + pi * 11, kind=kind, amp=10, cells=60)
         d = ImageDraw.Draw(S); x0 = m + 60; hy = -14 if CLIP else 0
         fL = fit('Black', 44, label, 200, 28)
-        d.rectangle([x0 + 5, m + 40 + hy, x0 + 235, m + 112 + hy], fill=BROWN + (255,))
-        d.rectangle([x0, m + 34 + hy, x0 + 230, m + 106 + hy], fill=GREEN + (255,))
-        d.text((x0 + 115, m + 71 + hy), label, font=fL, fill=YELLOW, anchor='mm')
+        d.rectangle([x0 + 5, m + 40 + hy, x0 + 235, m + 112 + hy], fill=T['label_sh'] + (255,))
+        d.rectangle([x0, m + 34 + hy, x0 + 230, m + 106 + hy], fill=T['label_bg'] + (255,))
+        d.text((x0 + 115, m + 71 + hy), label, font=fL, fill=T['label_fg'], anchor='mm')
+        if T['header_rule']:
+            for k_, wd in ((0, 5), (12, 2)): d.line([(m + 40, m + HEAD - 10 + k_), (m + PW - 40, m + HEAD - 10 + k_)], fill=T['header_rule'] + (255,), width=wd)
         fT = fit('ExtraBold', 40, title.upper(), PW - 380, 26); x = x0 + 262
-        for ch in title.upper(): d.text((x, m + 88 + hy), ch, font=fT, fill=BROWN, anchor='ls'); x += fT.getlength(ch) + 3
+        for ch in title.upper(): d.text((x, m + 88 + hy), ch, font=fT, fill=T['title_fg'], anchor='ls'); x += fT.getlength(ch) + 3
         S.alpha_composite(tape(180, 52, num * 100 + 50 + pi, color=TAPE[pi % 5], alpha=215), ((m + PW - 170) if pi % 2 == 0 else (m - 40), m - 26))
         ctx = cfg['prepare'](items, CLIP, PW) if 'prepare' in cfg else None
         rows = []
         for j, it in enumerate(items):
             R = Image.new('RGBA', (PW - 40, ROWH), (0, 0, 0, 0)); dr = ImageDraw.Draw(R)
-            c = [PINK, LIME][j % 2] if col not in (PINK, LIME) else CREAM
+            c = T['badges'][j % len(T['badges'])] if 'badges' in T else ([PINK, LIME][j % 2] if col not in (PINK, LIME) else CREAM)
             cfg['draw_row'](R, dr, it, j, ROWH, CLIP, c, ctx)
             if j < len(items) - 1:
-                for xx in range(130, PW - 120, 14): dr.ellipse([xx, ROWH - 5, xx + 4, ROWH - 1], fill=GREEN + (55,))
+                for xx in range(130, PW - 120, 14): dr.ellipse([xx, ROWH - 5, xx + 4, ROWH - 1], fill=T['dots'] + (55,))
             rows.append((R, m + 20, m + HEAD + j * ROWH))
         PAGES.append((S, m, rows, ph))
     NP = len(PAGES)
@@ -123,22 +138,23 @@ def run(cfg):
     T_O = T_PG[-1] + cfg.get('page_dur', 2.5); T_PG_END = T_O - 0.15
     PAGE_ANG = [-0.9, 0.8, -0.7, 0.9, -0.8, 0.7]
     def page_cy(ph):  # có clip: mép dưới trang cố định ~2200 (chừa UI), không lên quá 1180 (mặt)
+        if CLIP and cfg.get('page_low'): return 2200 - ph / 2
         return (min(2200 - ph / 2, max(1180 + ph / 2, 1700))) if CLIP else 1230
 
     # ---- OUTRO ----
     l1, l2, ohl = cfg['outro']
     fO = fit('tbi', 100, max(l1, l2, key=len), 1080, 60)
-    O, om = paper_sheet(1180, 300, CREAM, num * 100 + 80, amp=12, cells=60)
+    O, om = paper_sheet(1180, 300, T['out'], num * 100 + 80, amp=12, cells=60)
     d = ImageDraw.Draw(O)
-    d.text((om + 590, om + 120), l1, font=fO, fill=BROWN, anchor='ms')
-    hl_line(d, om + 590, om + 240, l2, ohl, fO, BROWN, LIME)
+    d.text((om + 590, om + 120), l1, font=fO, fill=T['out_fg'], anchor='ms')
+    hl_line(d, om + 590, om + 240, l2, ohl, fO, T['out_fg'], T['out_hl'])
     O.alpha_composite(tape(150, 46, num * 100 + 81, color=YELLOW, alpha=215), (om + 1050, om - 22))
     O = shadowed(rot(O, -1.5), (8, 13), 11, 0.38)
 
     ST = {k: load_seq(k, s) for k, s in [('sparkle', 150), ('star', 140), ('pencil', 230)]}
     def sf(name, t, speed=0.5, ph=0.0): return ST[name][int(((t * speed + ph) % 1) * 24) % 24]
     TW = {s: sparkle2d(s, c, BROWN) for s, c in [(54, YELLOW), (44, LIME), (38, CREAM)]}
-    D_STAR = doodle('star', 110, RED, num * 100 + 90); D_HEART = doodle('heart', 100, RED, num * 100 + 91)
+    D_STAR = doodle('star', 110, T['doodle'], num * 100 + 90); D_HEART = doodle('heart', 100, T['doodle'], num * 100 + 91)
     T_HOOK_OUT = T_PG[0] - 0.28; RSTEP = cfg.get('rstep', 0.07)
 
     def frame(t):
