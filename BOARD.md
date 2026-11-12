@@ -64,7 +64,7 @@ Nguồn: VnBusiness / VCCI / Znews về phí sàn, thuế, xử phạt (2025–2
 ⭐ B2: tìm kiếm đang là cách người xem tìm video, mỗi mục làm được ngay hôm nay.
 ⭐ B3: trúng nỗi sợ "flop là bỏ" của người mới, chưa có video nào nói cách thử.
 
-### Đợt 12/11 (c) — xen kẽ 1 bài thực hành (TH) · 1 bài kiến thức nền (KN), góc social media manager
+### Đợt 12/11 (c) — ❌ chủ kênh thấy chán, thay bằng đợt d · xen kẽ 1 bài thực hành (TH) · 1 bài kiến thức nền (KN), góc social media manager
 Nghiên cứu: các creator dạy social media (Shannon McKinstrie, Sarah – Social & Stuff…) và hướng dẫn của Later, Sprout, Mailchimp hay nói về: trụ nội dung 3–5 trụ, giọng thương hiệu, bộ nhận diện nhỏ (2–3 màu, 1 font, 3–5 mẫu), tái sử dụng nội dung, đọc số liệu. Đối chiếu ~48 video đã đăng: các mảng này kênh **chưa làm**.
 | # | Loại | Hook (0–3 s) | Khuôn | Trụ | Kiểu giấy / chất liệu gợi ý | Cần quay gì |
 |---|---|---|---|---|---|---|
@@ -83,4 +83,28 @@ Nghiên cứu: các creator dạy social media (Shannon McKinstrie, Sarah – So
 ⭐ C2: kiến thức nền bị thiếu nhất, mà kênh tự lấy mình làm ví dụ được — tăng uy tín.
 ⭐ C4: dùng lại khuôn bản đồ 3D đang có, phễu 3 tầng = 3 tầng đảo nhìn là hiểu.
 Thứ tự đăng gợi ý: C1 → C2 → C3 → C4 → … (TH, KN xen kẽ).
+
+### Đợt 12/11 (d) — hook mạnh kiểu các kênh tham khảo chủ kênh gửi · TH (thực hành) xen KN (kiến thức nền)
+Lấy cảm hứng từ cách đặt tiêu đề của 3 kênh social media chủ kênh gửi (so sánh "vs", "steal this", con số lẻ, nói thẳng nỗi sợ) — chỉ học **cách đặt vấn đề**, không chép nội dung. Con số trong hook là số mục của video, không phải số liệu.
+| # | Loại | Mảng | Hook (0–3 s) | Khuôn | Kiểu giấy / chất liệu gợi ý | Cần quay gì |
+|---|---|---|---|---|---|---|
+| D1 ⭐ | TH | Hook | HOOK 100 VIEW *vs* HOOK 1 TRIỆU VIEW — cùng 1 chủ đề, viết lại 5 câu | Tệ·Tuyệt (cặp so sánh, ghi rõ "ví dụ") | Giấy chia đôi: trái giấy nhàu xám gạch đỏ, phải giấy kem tô xanh chuối | Cầm bút gạch giấy, 12 s |
+| D2 | KN | Thuật toán | THUẬT TOÁN CHỈ CÓ *1 việc* — hiểu cái này là hiểu hết | Câu hỏi đời thường | Vở lò xo, 1 câu to giữa trang + 3 hệ quả bên dưới | Ngồi bàn, cầm điện thoại lướt, 9 s |
+| D3 ⭐ | TH | Font | ĐỪNG DÙNG FONT *lung tung* NỮA — 5 cặp font Việt hoá trong Canva nhìn sang ngay | Danh sách (mỗi cặp hiện mẫu chữ có dấu) | Mỗi cặp 1 thẻ mẫu chữ "Xây kênh từ 0" | Quay màn hình Canva gõ chữ có dấu, 12 s [xác nhận từng font hiện đủ dấu trong Canva] |
+| D4 | KN | Font | FONT ĐANG *nói thay* BẠN — chọn sai là người ta hiểu sai | Danh sách 4 nhóm (có chân = tin cậy · không chân = gọn · tròn = thân thiện · viết tay = cá nhân) | 4 tờ giấy, cùng 1 câu viết 4 font | Tay lật 4 tờ, 10 s |
+| D5 ⭐ | TH | Thuật toán | 5 DẤU HIỆU KÊNH BẠN ĐANG *"flop era"* — và cách thoát | Danh sách (dấu hiệu → làm gì) | Biểu đồ doodle đi xuống rồi bật lên, sticker 3D cảnh báo | Mặt chán nản → bật dậy, 12 s |
+| D6 | KN | Hướng nội | HƯỚNG NỘI LÀM CONTENT *lợi thế hơn* bạn nghĩ — 3 điều người hướng ngoại khó có | Danh sách | Giấy báo + doodle tai nghe, cốc trà | Clip đeo tai nghe làm việc 1 mình, 10 s |
+| D7 | TH | Hướng nội | SỢ NGƯỜI QUEN *thấy video?* — 4 cách đăng mà không ngại | Lộ trình (từ ít lộ → lộ dần) | Lịch xé 4 tờ, mỗi tờ mức "lộ" tăng dần | Tay che mặt → hạ tay, 10 s |
+| D8 | KN | Personal brand | NGƯỜI TA NHỚ BẠN VÌ *3 thứ lặp lại* — không phải vì bạn giỏi | Danh sách (câu cửa miệng · màu/format · chủ đề) — lấy chính @xaykenhdi_ làm ví dụ | Bảng ghim 3 ảnh chụp video cũ của kênh | Lướt lưới kênh của mình, 10 s |
+| D9 | TH | Personal brand / bán hàng | BÁN 1 CÂY BÚT THEO *4 cách* — cách nào khiến bạn muốn mua? | Tệ·Ổn·Tuyệt mở rộng (tính năng · cảm xúc · câu chuyện · khan hiếm) | Hoá đơn in nhiệt, mỗi cách 1 tờ | Tay cầm 1 cây bút xoay xoay, 12 s |
+| D10 | KN | Hook | VÌ SAO NÃO *dừng lướt?* — 4 công tắc tò mò | Danh sách (khoảng trống thông tin · nghịch lý · "là tôi đây" · lợi ích ngay) | Công tắc giấy bật 1–4, sticker 3D tia sáng | Ngón tay dừng lướt, 9 s |
+| D11 | TH | Content idea | 15 Ý TƯỞNG *"lười"* — mỗi bài làm trong 10 phút | Danh sách 2 trang | Bảng ghim, mỗi ý 1 giấy note | Nằm dài cầm điện thoại, 12 s |
+| D12 | KN | Thuật toán | XOÁ VIDEO FLOP *có hại kênh không?* | Câu hỏi đời thường | Giấy kẻ dòng, nút "xoá" cắt dán bị gạch | Ngón tay định bấm xoá rồi dừng, 9 s [xác nhận — chưa có nguồn chính thức, nói ở mức "kinh nghiệm"] |
+| D13 | TH | Content idea | HẾT Ý TƯỞNG? *21 chỗ* tìm ý tưởng chẳng ai nói tới | Danh sách 3 trang (7 mục/trang) | Ô li + Fluent Emoji từng chỗ | Tay lật sổ tay, 12 s |
+| D14 | KN | Xu hướng | VIDEO *"thô"* ĐANG THẮNG VIDEO ĐẸP? — chuyện gì đang xảy ra | Câu hỏi đời thường | Tờ ảnh bóng loáng bị xé, lộ tờ giấy nháp bên dưới | Clip quay vội bằng điện thoại, 9 s [xác nhận — nói là quan sát, không khẳng định] |
+
+⭐ D1: kiểu "vs" dễ chụp màn hình, hook là mảng kênh mạnh nhất nhưng chưa có video so sánh trực tiếp.
+⭐ D3: font Việt hoá là nỗi khổ riêng của người làm content tiếng Việt, kênh nước ngoài không làm được.
+⭐ D5: "flop era" chạm đúng nỗi sợ người mới, lại cho cách thoát ngay.
+Thứ tự đăng gợi ý: D1 → D2 → D3 → D4 → … (TH, KN xen kẽ; D3 và D4 đăng liền nhau thành cặp font).
 
