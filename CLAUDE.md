@@ -18,6 +18,7 @@ y-tuong ─> [chủ kênh chọn ý] ─> noi-dung-video ─> [chủ kênh sửa
 - `style/content-style.md` — giọng văn, khuôn chủ đề, format mốc giây, CTA.
 - `style/edit-style.md` — brand, chất liệu, chuyển động, quy tắc dựng bắt buộc.
 - `BAN-GIAO.md` — ghi chú bàn giao gốc (15 video đầu). Trang bàn giao: https://claude.ai/artifact/C3Q8SveEL6rh6WJNpBxVWd
+- Bản đồ 3D quy trình (xem trực quan 7 trạm): https://claude.ai/artifact/EkLGfEYm3AdF38scq2czgK
 - `BOARD.md` — danh sách video đã làm / đang làm / ý tưởng chờ duyệt.
 
 ## Quy tắc chung
