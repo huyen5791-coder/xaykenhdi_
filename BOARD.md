@@ -108,22 +108,23 @@ Lấy cảm hứng từ cách đặt tiêu đề của 3 kênh social media ch�
 ⭐ D5: "flop era" chạm đúng nỗi sợ người mới, lại cho cách thoát ngay.
 Thứ tự đăng gợi ý: D1 → D2 → D3 → D4 → … (TH, KN xen kẽ; D3 và D4 đăng liền nhau thành cặp font).
 
-#### Đợt d — viết lại hook (chủ kênh: hook cũ chán)
-Hook cũ kiểu "5 cách / X dấu hiệu" = đọc như mục lục. Hook mới: nói ngôi thứ nhất, có xung đột, chọc đúng nỗi sợ, hoặc nói ngược số đông. Mỗi ý 2 phương án; câu có **[xác nhận]** là trải nghiệm của chủ kênh — chỉ dùng nếu đúng.
-| # | Hook A | Hook B |
-|---|---|---|
-| D1 | Xin lỗi, nhưng *câu đầu tiên* của bạn đang bảo người xem: "lướt đi" | Giữ nguyên video, chỉ sửa *1 câu đầu*. Xem khác nhau thế nào 👇 |
-| D2 | Thuật toán không ghét bạn. Nó chỉ… *không quan tâm* bạn. | Bạn đang chiều thuật toán. Nhưng nó chỉ chiều *đúng 1 người*. |
-| D3 | Font này đang làm kênh bạn trông như *năm 2015* | Dấu tiếng Việt bị lệch? Người xem *thấy hết* đấy. |
-| D4 | Bạn chọn font. Người xem thì đọc ra *tính cách* bạn. | Cùng 1 câu, đổi font — người ta *tin bạn hơn* |
-| D5 | Flop 10 video liền? Đừng *xoá kênh* vội. | Kênh bạn không chết. Nó đang *ngủ đông*. Đánh thức thế này 👇 |
-| D6 | Ghét nói chuyện, ghét lên hình — vẫn làm content *mỗi ngày* | Người hướng nội làm content giỏi hơn. *Tôi nói thật.* |
-| D7 | Đăng video đầu tiên, sợ nhất không phải người lạ — mà là *đồng nghiệp* | "Ơ, mày làm TikTok à?" — câu tôi *sợ nhất* năm đầu [xác nhận] |
-| D8 | Bạn giỏi hơn họ. Nhưng người ta *nhớ họ*. | Không ai nhớ người giỏi nhất. Họ nhớ người *lặp lại nhiều nhất*. |
-| D9 | "Bán cho tôi cây bút này." 4 cách — *cách cuối* ai cũng mua | Bạn đang bán tính năng. Khách thì đang mua *thứ khác*. |
-| D10 | Bạn vừa dừng lướt. *Tôi biết tại sao.* | 0,5 giây vừa rồi — não bạn đã *quyết định* thay bạn |
-| D11 | Hôm nay *lười*. Vẫn đăng. Đây là cách. | Content "lười" của tôi *nhiều view hơn* content tôi làm 3 ngày [xác nhận] |
-| D12 | Xoá video flop: *dọn nhà* hay *tự bắn vào chân*? | Ngón tay tôi đã đặt lên nút xoá *20 video*… [xác nhận] |
-| D13 | Ý tưởng content hay nhất của tôi đến từ… *nhóm Zalo phụ huynh* [xác nhận] | Ngừng lướt TikTok tìm ý tưởng đi. *Ý tưởng không nằm ở đó.* |
-| D14 | Video đẹp nhất của tôi là video *ít view nhất* [xác nhận] | Quay *xấu hơn*, view *cao hơn*? Không phải ngẫu nhiên đâu. |
+#### Đợt e — hook trực diện, thực hành, có từ khoá (thay đợt d)
+Công thức: **TỪ KHOÁ** + thứ người xem lấy về dùng ngay + kết quả cụ thể. Không kể lể, không ẩn ý.
+| # | Loại | Từ khoá | Hook | Thân video (người xem lấy được gì) |
+|---|---|---|---|---|
+| E1 ⭐ | TH | HOOK | 10 câu HOOK copy dùng ngay — thay tên ngách của bạn vào là xong | 10 mẫu câu có chỗ trống "___", để đủ lâu cho chụp màn hình |
+| E2 | KN | HOOK | HOOK 100 view vs HOOK 1 triệu view — khác nhau đúng 3 chữ | 3 cặp sửa câu (ghi "ví dụ"): bỏ chữ thừa · thêm con số · nói thẳng nỗi đau |
+| E3 ⭐ | TH | FONT VIỆT HOÁ | 7 FONT VIỆT HOÁ trong Canva nhìn sang ngay — không lỗi dấu | Tên font + mẫu chữ có dấu, gõ tên là tìm thấy [xác nhận từng font trong Canva] |
+| E4 | KN | FONT VIỆT HOÁ | Cặp FONT VIỆT HOÁ tiêu đề + nội dung — copy công thức này | Quy tắc 1 font có chân + 1 font không chân, 3 cặp mẫu |
+| E5 ⭐ | TH | HƯỚNG NỘI | HƯỚNG NỘI xây kênh: 7 ngày, 7 video, không cần nói 1 câu | Lịch 7 ngày, mỗi ngày 1 dạng video chỉ chữ + tay/màn hình |
+| E6 | KN | HƯỚNG NỘI | HƯỚNG NỘI ngại nói trước camera? 3 mẹo quay 1 lần là xong | Đọc kịch bản qua tai nghe · quay từng câu · thu tiếng trước rồi ghép hình |
+| E7 | TH | CONTENT IDEA | 20 CONTENT IDEA cho personal brand — không cần có sản phẩm | 20 ý chia 4 nhóm: kiến thức · hậu trường · quan điểm · kết quả |
+| E8 | KN | CONTENT IDEA | Bí CONTENT IDEA? 1 bình luận = 1 video, làm thế này | 4 bước: lọc câu hỏi · nhóm lại · trả lời bằng video · ghim |
+| E9 | TH | PERSONAL BRAND | PERSONAL BRAND trong 7 ngày — làm đúng thứ tự này | Ngày 1 chọn 1 chủ đề → … → ngày 7 đăng video giới thiệu bản thân |
+| E10 | KN | PERSONAL BRAND | 3 thứ người lạ nhìn vào để quyết định follow PERSONAL BRAND của bạn | Ảnh đại diện · 1 dòng bio · 3 video ghim (khác "7 thứ cần thiết lập" — kiểm tra lại video cũ) |
+| E11 | TH | THUẬT TOÁN | Video bị bóp view? Kiểm tra 5 thứ này trước khi trách THUẬT TOÁN | Bỏ đi giây đầu · chữ che UI · nhạc/âm thanh · đăng lại nội dung cũ · ngắt quãng đăng [xác nhận từng mục] |
+| E12 | KN | THUẬT TOÁN | THUẬT TOÁN tìm kiếm: đặt từ khoá ở 4 chỗ để video lên tìm kiếm | Câu nói đầu · chữ trên màn hình · caption · tên file/ảnh bìa [xác nhận — nguồn blog, chưa chính thức] |
 
+⭐ E1: hook là mảng mạnh của kênh, mẫu điền chỗ trống = lưu nhiều.
+⭐ E3: font Việt hoá là nhu cầu riêng người Việt, tìm là dùng được ngay.
+⭐ E5: đúng người hướng nội, có lịch làm theo từng ngày.

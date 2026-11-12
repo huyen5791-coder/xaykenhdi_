@@ -36,11 +36,10 @@ Ba trụ chủ đề:
 - Không bịa số liệu, không hứa viral. Con số nào cũng phải có cơ sở hoặc là ví dụ ghi rõ "ví dụ".
 - Không bịa trải nghiệm của chủ kênh; câu chưa chắc đánh dấu **[xác nhận]**.
 
-## Hook phải "có máu" (chủ kênh chốt 12/11)
-- **Tránh** hook kiểu mục lục: "5 cách…", "X dấu hiệu…", "Cách để…" đứng một mình → chán. Con số để ở dòng phụ, không làm câu chính.
-- **Dùng** 1 trong các kiểu: ngôi thứ nhất kể chuyện ("Ghét làm content một mình lắm luôn") · nói ngược số đông ("Đừng xây kênh, hãy làm thương hiệu") · chọc nỗi sợ cụ thể ("…sợ nhất là đồng nghiệp") · nói thẳng vào người xem / meta ("Bạn vừa dừng lướt. Tôi biết tại sao.") · xung đột 2 vế ("Bạn giỏi hơn họ. Nhưng người ta nhớ họ.").
-- Hook có trải nghiệm riêng của chủ kênh → ghi **[xác nhận]**, không tự bịa.
-- Mỗi ý tưởng đưa 2 phương án hook để chủ kênh chọn.
+## Hook (chủ kênh chốt 12/11)
+- **Trực diện, thực hành:** TỪ KHOÁ + thứ người xem lấy về dùng ngay + kết quả cụ thể. Vd: "7 FONT VIỆT HOÁ trong Canva nhìn sang ngay — không lỗi dấu".
+- Từ khoá nằm ngay trong hook: HOOK, HƯỚNG NỘI, CONTENT IDEA, FONT VIỆT HOÁ, PERSONAL BRAND, THUẬT TOÁN…
+- Không lan man, không ẩn ý, không kể chuyện vòng vo.
 
 ## CTA
 - Mẫu đã dùng: *Follow và cmt "PLAN" nhận bộ tài liệu hướng dẫn xây kênh nhé*.
