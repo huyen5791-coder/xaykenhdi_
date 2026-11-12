@@ -1,0 +1,10 @@
+work/
+frames/
+*.mp4
+*.mov
+*.wav
+mont/
+node_modules/
+r3d/out/
+icons/png/
+__pycache__/
