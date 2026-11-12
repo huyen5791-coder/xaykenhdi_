@@ -19,6 +19,9 @@
 | 14 | Kênh giấu mặt kiếm tiền từ đâu | Danh sách · thẻ giá |
 | 15 | 10 ngách không lộ mặt | Danh sách · 2 trang (mẫu `compose_template.py`) |
 
+## Đã đăng trên kênh (theo lưới kênh chủ kênh gửi 12/11) — dùng để tránh trùng
+Kế hoạch content cuối năm 11.11 → Tết · Ghét làm content một mình → lập văn phòng AI · 30 ngày xây kênh từ 0 follower · Video do đội AI dựng · Các cấp độ câu mở đầu · Đừng nhờ AI khi chưa vẽ quy trình · Chạy quảng cáo mà lỗ · 5 sai lầm quảng cáo đốt tiền · Bản đồ tự chuyển trạm (3D) · 30 kiểu mở đầu bằng hình · Câu cuối bài quyết định có đơn · Làm kênh một mình content không đều · Giờ đăng tốt nhất từng nền tảng · Nên khoe gì, giấu gì trên mạng · 50 góc quay cho người hướng nội · Văn phòng AI (3D) · 1 chủ đề thành 10 bài viết · Học như nghiên cứu sinh · Kênh giấu mặt vẫn viral · Khung kể chuyện 5 câu · Bán càng nhiều càng lỗ · 50.000 giờ buổi tối · Vẽ chân dung khách hàng mục tiêu · Học 5h sáng hay 10h tối · Khách thiếu lý do chọn bạn · 30 ngày đầu nên làm gì · Đừng xây kênh, hãy làm thương hiệu · Tìm ngách ít cạnh tranh · Reels vs carousel · Lịch đăng bài 1 tuần · Có nên reup · Bộ công cụ miễn phí · 3 giây đầu quyết định tất cả · 6 cách kiếm tiền từ kênh nhỏ · Đăng ít hơn views cao hơn · Viết caption bán hàng không cần quảng cáo · 7 dạng bài fanpage · Nhìn lén chiến lược Instagram · Hashtag đừng dùng nữa · Đồ quay video dưới 500k · Chỉ số quyết định reach · Lộ trình 30 ngày TikTok · Bóc tách 4 nguồn · Lịch 7 ngày story · 5 cách mở đầu video · 30 ý tưởng content fanpage · 7 thứ thiết lập trước khi… · Fanpage…
+
 ## Đang chờ quay
 - Edit video cực nhanh bằng AI (~60 s, 5 bước, CTA "PHẦN 2") — kịch bản trong Project "Edit video" trên claude.ai.
 - Bài viết dùng AI đọc là nhận ra (bản thay thế, cùng cấu trúc).
@@ -42,7 +45,7 @@
 ⭐ A2: trụ bán hàng đang ít video, mà "đường lên đỉnh = đơn đầu tiên" là đúng thứ bản đồ kể hay nhất.
 ⭐ A3: đúng tệp kênh giấu mặt, tầng đảo = cấp độ nên hiểu ngay không cần đọc.
 
-### Đợt 12/11 (b) — từ nghiên cứu tin ngành & xu hướng
+### Đợt 12/11 (b) — ❌ chủ kênh không chọn (thiên về sàn, không đúng hướng kênh)
 Nguồn: VnBusiness / VCCI / Znews về phí sàn, thuế, xử phạt (2025–2026); blog ngành về tìm kiếm trên TikTok, kênh giấu mặt. Số nào chưa có nguồn chính thức → **[xác nhận]**.
 | # | Hook (0–3 s) | Khuôn | Trụ | Kiểu giấy / chất liệu gợi ý | Cần quay gì | Cơ sở |
 |---|---|---|---|---|---|---|
@@ -60,4 +63,24 @@ Nguồn: VnBusiness / VCCI / Znews về phí sàn, thuế, xử phạt (2025–2
 ⭐ B1: tin thật, đang ảnh hưởng thẳng tới người bán nhỏ, có phép tính dễ chụp màn hình.
 ⭐ B2: tìm kiếm đang là cách người xem tìm video, mỗi mục làm được ngay hôm nay.
 ⭐ B3: trúng nỗi sợ "flop là bỏ" của người mới, chưa có video nào nói cách thử.
+
+### Đợt 12/11 (c) — xen kẽ 1 bài thực hành (TH) · 1 bài kiến thức nền (KN), góc social media manager
+Nghiên cứu: các creator dạy social media (Shannon McKinstrie, Sarah – Social & Stuff…) và hướng dẫn của Later, Sprout, Mailchimp hay nói về: trụ nội dung 3–5 trụ, giọng thương hiệu, bộ nhận diện nhỏ (2–3 màu, 1 font, 3–5 mẫu), tái sử dụng nội dung, đọc số liệu. Đối chiếu ~48 video đã đăng: các mảng này kênh **chưa làm**.
+| # | Loại | Hook (0–3 s) | Khuôn | Trụ | Kiểu giấy / chất liệu gợi ý | Cần quay gì |
+|---|---|---|---|---|---|---|
+| C1 ⭐ | TH | VIDEO ÍT VIEW? *Mở biểu đồ này* — người xem bỏ đi ở giây nào | Danh sách (3 kiểu tụt + cách sửa) | 1 | Giấy ô li vẽ đường biểu đồ doodle, 3 điểm tụt khoanh đỏ | Quay màn hình trang số liệu 1 video thật của kênh [xác nhận video dùng làm ví dụ] |
+| C2 ⭐ | KN | KÊNH LỘN XỘN VÌ *thiếu trụ* — trụ nội dung là gì? | Câu hỏi đời thường | 2 | Bảng ghim 3 cột = 3 trụ, lấy chính kênh @xaykenhdi_ làm ví dụ | Tay xếp giấy note thành 3 cột, 10 s |
+| C3 | TH | NHÌN LÀ BIẾT KÊNH BẠN — *bộ nhận diện* làm trong 1 buổi | Lộ trình (2 màu → 1 font → 3 mẫu bìa) | 2 | Bảng màu cắt giấy + 3 bìa mẫu dán chồng | Quay màn hình lưới kênh của chính mình, 12 s |
+| C4 ⭐ | KN | KHÔNG PHẢI VIDEO NÀO CŨNG ĐỂ *bán* — phễu 3 tầng | Bản đồ 3D | 3 | Đảo 3 tầng: chân đảo = video cho người lạ · giữa = cho người đã biết · đỉnh = cho người sắp mua | Tay chỉ lên (clip nhỏ góc), 12 s |
+| C5 | TH | HẾT Ý TƯỞNG? *Mở phần bình luận* — 1 bình luận thành 1 video | Lộ trình 4 bước (lọc câu hỏi → nhóm → trả lời bằng video → ghim) | 1 | Bong bóng bình luận cắt giấy dán lên vở | Quay màn hình bình luận (che tên), 10 s |
+| C6 | KN | VÌ SAO NGƯỜI TA *bấm chia sẻ?* — 6 lý do | Danh sách | 1 | Thẻ giá / tem, mỗi lý do 1 tem. Dựa trên khung STEPPS (Jonah Berger, sách "Contagious") — ghi nguồn trong caption | Tay bấm nút chia sẻ, 10 s |
+| C7 | TH | TRƯỚC KHI QUAY, *điền 6 ô này* — brief 1 trang | Câu lệnh / mẫu cộng dồn (để chụp màn hình) | 2 | Tờ phiếu in 6 ô: ai xem · nỗi đau · hook · 3 ý · câu chốt · CTA | Tay viết lên tờ phiếu, 12 s |
+| C8 | KN | CÙNG 1 CÂU, *3 giọng* — kênh bạn đang nói giọng nào? | Tệ·Ổn·Tuyệt (đổi thành 3 giọng: thân thiện · chuyên gia · hài) | 2 | Chữ ransom 3 màu, mỗi giọng 1 tờ | Clip nói hoặc nhép câu mẫu, 10 s |
+| C9 | TH | LÀM SERIES để người ta *chờ tập sau* — 4 bước | Lộ trình | 2 | Lịch xé đánh số tập 1·2·3 | Tay xếp các tờ theo thứ tự, 10 s |
+| C10 | KN | SOCIAL MEDIA MANAGER *thật ra làm gì?* — 5 việc ngoài "đăng bài" | Bản đồ 3D (hoặc danh sách) | 2 | 5 công trình: kế hoạch · sản xuất · cộng đồng · đo lường · báo cáo | Clip bàn làm việc, 12 s |
+
+⭐ C1: thực hành ngay trên số liệu thật, chưa video nào của kênh chỉ cách đọc giữ chân (khác "chỉ số quyết định reach").
+⭐ C2: kiến thức nền bị thiếu nhất, mà kênh tự lấy mình làm ví dụ được — tăng uy tín.
+⭐ C4: dùng lại khuôn bản đồ 3D đang có, phễu 3 tầng = 3 tầng đảo nhìn là hiểu.
+Thứ tự đăng gợi ý: C1 → C2 → C3 → C4 → … (TH, KN xen kẽ).
 
