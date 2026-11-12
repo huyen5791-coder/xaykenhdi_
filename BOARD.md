@@ -108,3 +108,22 @@ Lấy cảm hứng từ cách đặt tiêu đề của 3 kênh social media ch�
 ⭐ D5: "flop era" chạm đúng nỗi sợ người mới, lại cho cách thoát ngay.
 Thứ tự đăng gợi ý: D1 → D2 → D3 → D4 → … (TH, KN xen kẽ; D3 và D4 đăng liền nhau thành cặp font).
 
+#### Đợt d — viết lại hook (chủ kênh: hook cũ chán)
+Hook cũ kiểu "5 cách / X dấu hiệu" = đọc như mục lục. Hook mới: nói ngôi thứ nhất, có xung đột, chọc đúng nỗi sợ, hoặc nói ngược số đông. Mỗi ý 2 phương án; câu có **[xác nhận]** là trải nghiệm của chủ kênh — chỉ dùng nếu đúng.
+| # | Hook A | Hook B |
+|---|---|---|
+| D1 | Xin lỗi, nhưng *câu đầu tiên* của bạn đang bảo người xem: "lướt đi" | Giữ nguyên video, chỉ sửa *1 câu đầu*. Xem khác nhau thế nào 👇 |
+| D2 | Thuật toán không ghét bạn. Nó chỉ… *không quan tâm* bạn. | Bạn đang chiều thuật toán. Nhưng nó chỉ chiều *đúng 1 người*. |
+| D3 | Font này đang làm kênh bạn trông như *năm 2015* | Dấu tiếng Việt bị lệch? Người xem *thấy hết* đấy. |
+| D4 | Bạn chọn font. Người xem thì đọc ra *tính cách* bạn. | Cùng 1 câu, đổi font — người ta *tin bạn hơn* |
+| D5 | Flop 10 video liền? Đừng *xoá kênh* vội. | Kênh bạn không chết. Nó đang *ngủ đông*. Đánh thức thế này 👇 |
+| D6 | Ghét nói chuyện, ghét lên hình — vẫn làm content *mỗi ngày* | Người hướng nội làm content giỏi hơn. *Tôi nói thật.* |
+| D7 | Đăng video đầu tiên, sợ nhất không phải người lạ — mà là *đồng nghiệp* | "Ơ, mày làm TikTok à?" — câu tôi *sợ nhất* năm đầu [xác nhận] |
+| D8 | Bạn giỏi hơn họ. Nhưng người ta *nhớ họ*. | Không ai nhớ người giỏi nhất. Họ nhớ người *lặp lại nhiều nhất*. |
+| D9 | "Bán cho tôi cây bút này." 4 cách — *cách cuối* ai cũng mua | Bạn đang bán tính năng. Khách thì đang mua *thứ khác*. |
+| D10 | Bạn vừa dừng lướt. *Tôi biết tại sao.* | 0,5 giây vừa rồi — não bạn đã *quyết định* thay bạn |
+| D11 | Hôm nay *lười*. Vẫn đăng. Đây là cách. | Content "lười" của tôi *nhiều view hơn* content tôi làm 3 ngày [xác nhận] |
+| D12 | Xoá video flop: *dọn nhà* hay *tự bắn vào chân*? | Ngón tay tôi đã đặt lên nút xoá *20 video*… [xác nhận] |
+| D13 | Ý tưởng content hay nhất của tôi đến từ… *nhóm Zalo phụ huynh* [xác nhận] | Ngừng lướt TikTok tìm ý tưởng đi. *Ý tưởng không nằm ở đó.* |
+| D14 | Video đẹp nhất của tôi là video *ít view nhất* [xác nhận] | Quay *xấu hơn*, view *cao hơn*? Không phải ngẫu nhiên đâu. |
+
