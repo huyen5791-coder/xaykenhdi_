@@ -22,6 +22,14 @@
 ## Đã đăng trên kênh (theo lưới kênh chủ kênh gửi 12/11) — dùng để tránh trùng
 Kế hoạch content cuối năm 11.11 → Tết · Ghét làm content một mình → lập văn phòng AI · 30 ngày xây kênh từ 0 follower · Video do đội AI dựng · Các cấp độ câu mở đầu · Đừng nhờ AI khi chưa vẽ quy trình · Chạy quảng cáo mà lỗ · 5 sai lầm quảng cáo đốt tiền · Bản đồ tự chuyển trạm (3D) · 30 kiểu mở đầu bằng hình · Câu cuối bài quyết định có đơn · Làm kênh một mình content không đều · Giờ đăng tốt nhất từng nền tảng · Nên khoe gì, giấu gì trên mạng · 50 góc quay cho người hướng nội · Văn phòng AI (3D) · 1 chủ đề thành 10 bài viết · Học như nghiên cứu sinh · Kênh giấu mặt vẫn viral · Khung kể chuyện 5 câu · Bán càng nhiều càng lỗ · 50.000 giờ buổi tối · Vẽ chân dung khách hàng mục tiêu · Học 5h sáng hay 10h tối · Khách thiếu lý do chọn bạn · 30 ngày đầu nên làm gì · Đừng xây kênh, hãy làm thương hiệu · Tìm ngách ít cạnh tranh · Reels vs carousel · Lịch đăng bài 1 tuần · Có nên reup · Bộ công cụ miễn phí · 3 giây đầu quyết định tất cả · 6 cách kiếm tiền từ kênh nhỏ · Đăng ít hơn views cao hơn · Viết caption bán hàng không cần quảng cáo · 7 dạng bài fanpage · Nhìn lén chiến lược Instagram · Hashtag đừng dùng nữa · Đồ quay video dưới 500k · Chỉ số quyết định reach · Lộ trình 30 ngày TikTok · Bóc tách 4 nguồn · Lịch 7 ngày story · 5 cách mở đầu video · 30 ý tưởng content fanpage · 7 thứ thiết lập trước khi… · Fanpage…
 
+## Đang làm (đợt E · duyệt 12/11)
+Thư mục gốc Drive: [xaykenhdi_ - Video](https://drive.google.com/drive/folders/1MO3YP5FaGS9Swz-Yq9vG2NcOF3Momxum)
+| # | Video | Thư mục | Kịch bản (Doc) | 1-nguon (id) | 2-xuat (id) | Trạng thái |
+|---|---|---|---|---|---|---|
+| 16 | 50 câu mở đầu copy dùng ngay | [mở](https://drive.google.com/drive/folders/1jPAuzaIwIzTbaXi5VLxw5iwrt22r96GB) | [Doc](https://docs.google.com/document/d/17jHnfARbGGuZflBuYLwTrY8ZaVTUxxpj06MlFBG7wdg/edit) | 1xUFTtb5d31gqrNYPx4zCHOPOdze2ZVNU | 1aSzHCSDu5fEPRWZFy0SJIPPvK9NpQ5Mz | chờ duyệt script + chờ clip |
+| 17 | 50 phông chữ Việt hoá trong canva | [mở](https://drive.google.com/drive/folders/1pQsuAOOJ-yrs5eTQ7XiMGwIg_Y3mqxkp) | [Doc](https://docs.google.com/document/d/1nBWi6m4pLNuTmsgJeqvflNKlnneTtYoJT-KaQxTOBqY/edit) | 165VDsCKGNXcbyp3V3l0w_yCQ6F6t4LbP | 1zwbsDUtJM3foH9jMk_oGZf-2-TdT8ceb | chờ duyệt script + kiểm phông + chờ clip |
+| 18 | Người hướng nội: 30 ngày, 30 video | [mở](https://drive.google.com/drive/folders/18D3TDDNuD6zNAIL2pxzfop4Fnbrl2sAg) | [Doc](https://docs.google.com/document/d/1TL-uzTULmk99QLNQo2jMz9nhx1aYfsjrUWkVZiOANi0/edit) | 1tXkumAuXfZ_tKlOJFKa1wlWAl5gHPUWA | 1HW78f9KWS1OAOjntpzvaLhOZDJRUfQZz | chờ duyệt script + chờ clip |
+
 ## Đang chờ quay
 - Edit video cực nhanh bằng AI (~60 s, 5 bước, CTA "PHẦN 2") — kịch bản trong Project "Edit video" trên claude.ai.
 - Bài viết dùng AI đọc là nhận ra (bản thay thế, cùng cấu trúc).
@@ -112,11 +120,11 @@ Thứ tự đăng gợi ý: D1 → D2 → D3 → D4 → … (TH, KN xen kẽ; D3
 Quy tắc: số mục ≥ 10 (ưu tiên 20–50); chỉ giữ các từ tiếng Anh: content, camera, canva, view, copy. Danh sách 30–50 mục hiện theo nhóm nhiều trang dày (như video "50 góc quay"), để người xem chụp màn hình.
 | # | Loại | Từ khoá | Hook | Thân video |
 |---|---|---|---|---|
-| E1 ⭐ | TH | Câu mở đầu | 50 CÂU MỞ ĐẦU copy dùng ngay — thay tên ngách của bạn vào là xong | 50 mẫu câu có chỗ trống "___", chia 5 nhóm × 10 câu |
+| E1 ⭐ ✅→#16 | TH | Câu mở đầu | 50 CÂU MỞ ĐẦU copy dùng ngay — thay tên ngách của bạn vào là xong | 50 mẫu câu có chỗ trống "___", chia 5 nhóm × 10 câu |
 | E2 | KN | Câu mở đầu | Câu mở đầu 100 view và câu mở đầu 1 triệu view — 20 cặp sửa cho bạn xem | 20 cặp "trước → sau" (ghi "ví dụ"), mỗi cặp chỉ ra chữ đã sửa |
-| E3 ⭐ | TH | Phông chữ Việt hoá | 50 PHÔNG CHỮ VIỆT HOÁ trong canva nhìn sang ngay — không lỗi dấu | Tên phông + mẫu chữ có dấu, chia 5 nhóm (có chân · không chân · tròn · viết tay · trang trí) [xác nhận từng phông trong canva] |
+| E3 ⭐ ✅→#17 | TH | Phông chữ Việt hoá | 50 PHÔNG CHỮ VIỆT HOÁ trong canva nhìn sang ngay — không lỗi dấu | Tên phông + mẫu chữ có dấu, chia 5 nhóm (có chân · không chân · tròn · viết tay · trang trí) [xác nhận từng phông trong canva] |
 | E4 | KN | Phông chữ Việt hoá | 20 CẶP PHÔNG CHỮ VIỆT HOÁ cho tiêu đề + nội dung — copy là dùng | Quy tắc ghép phông + 20 cặp mẫu |
-| E5 ⭐ | TH | Hướng nội | NGƯỜI HƯỚNG NỘI xây kênh: 30 ngày, 30 video, không cần nói 1 câu | Lịch 30 ngày, mỗi ngày 1 dạng video chỉ chữ + tay / màn hình |
+| E5 ⭐ ✅→#18 | TH | Hướng nội | NGƯỜI HƯỚNG NỘI xây kênh: 30 ngày, 30 video, không cần nói 1 câu | Lịch 30 ngày, mỗi ngày 1 dạng video chỉ chữ + tay / màn hình |
 | E6 | KN | Hướng nội | Người hướng nội ngại camera? 15 MẸO quay 1 lần là xong | 15 mẹo chia 3 nhóm: trước khi quay · lúc quay · sau khi quay |
 | E7 | TH | Ý tưởng content | 50 Ý TƯỞNG CONTENT XÂY THƯƠNG HIỆU CÁ NHÂN — chưa có sản phẩm vẫn đăng đều mỗi ngày | 50 ý chia 5 nhóm: kiến thức · hậu trường · quan điểm · hành trình · kết quả |
 | E8 | KN | Ý tưởng content | Bí ý tưởng content? 30 KIỂU BÌNH LUẬN biến thành video ngay | 30 kiểu bình luận (hỏi giá, hỏi cách làm, phản đối…) → dạng video trả lời tương ứng |
