@@ -37,8 +37,10 @@ Ba trụ chủ đề:
 - Không bịa trải nghiệm của chủ kênh; câu chưa chắc đánh dấu **[xác nhận]**.
 
 ## Hook (chủ kênh chốt 12/11)
-- **Trực diện, thực hành:** TỪ KHOÁ + thứ người xem lấy về dùng ngay + kết quả cụ thể. Vd: "7 FONT VIỆT HOÁ trong Canva nhìn sang ngay — không lỗi dấu".
-- Từ khoá nằm ngay trong hook: HOOK, HƯỚNG NỘI, CONTENT IDEA, FONT VIỆT HOÁ, PERSONAL BRAND, THUẬT TOÁN…
+- **Trực diện, thực hành:** TỪ KHOÁ + thứ người xem lấy về dùng ngay + kết quả cụ thể. Vd: "50 PHÔNG CHỮ VIỆT HOÁ trong canva nhìn sang ngay — không lỗi dấu".
+- Từ khoá nằm ngay trong hook: câu mở đầu, người hướng nội, ý tưởng content, phông chữ Việt hoá, thương hiệu cá nhân, thuật toán…
+- **Số lớn:** danh sách tối thiểu 10 mục, ưu tiên 20–50 ("50 câu mở đầu", "50 ý tưởng"). Không làm video dưới 10 mục.
+- **Không chêm tiếng Anh**, trừ: content, camera, canva, view, copy. (hook → câu mở đầu, personal brand → thương hiệu cá nhân, follow → theo dõi, idea → ý tưởng.)
 - Không lan man, không ẩn ý, không kể chuyện vòng vo.
 
 ## CTA

@@ -108,23 +108,23 @@ Lấy cảm hứng từ cách đặt tiêu đề của 3 kênh social media ch�
 ⭐ D5: "flop era" chạm đúng nỗi sợ người mới, lại cho cách thoát ngay.
 Thứ tự đăng gợi ý: D1 → D2 → D3 → D4 → … (TH, KN xen kẽ; D3 và D4 đăng liền nhau thành cặp font).
 
-#### Đợt e — hook trực diện, thực hành, có từ khoá (thay đợt d)
-Công thức: **TỪ KHOÁ** + thứ người xem lấy về dùng ngay + kết quả cụ thể. Không kể lể, không ẩn ý.
-| # | Loại | Từ khoá | Hook | Thân video (người xem lấy được gì) |
+#### Đợt e (bản 2) — hook trực diện, số lớn, không chêm tiếng Anh
+Quy tắc: số mục ≥ 10 (ưu tiên 20–50); chỉ giữ các từ tiếng Anh: content, camera, canva, view, copy. Danh sách 30–50 mục hiện theo nhóm nhiều trang dày (như video "50 góc quay"), để người xem chụp màn hình.
+| # | Loại | Từ khoá | Hook | Thân video |
 |---|---|---|---|---|
-| E1 ⭐ | TH | HOOK | 10 câu HOOK copy dùng ngay — thay tên ngách của bạn vào là xong | 10 mẫu câu có chỗ trống "___", để đủ lâu cho chụp màn hình |
-| E2 | KN | HOOK | HOOK 100 view vs HOOK 1 triệu view — khác nhau đúng 3 chữ | 3 cặp sửa câu (ghi "ví dụ"): bỏ chữ thừa · thêm con số · nói thẳng nỗi đau |
-| E3 ⭐ | TH | FONT VIỆT HOÁ | 7 FONT VIỆT HOÁ trong Canva nhìn sang ngay — không lỗi dấu | Tên font + mẫu chữ có dấu, gõ tên là tìm thấy [xác nhận từng font trong Canva] |
-| E4 | KN | FONT VIỆT HOÁ | Cặp FONT VIỆT HOÁ tiêu đề + nội dung — copy công thức này | Quy tắc 1 font có chân + 1 font không chân, 3 cặp mẫu |
-| E5 ⭐ | TH | HƯỚNG NỘI | HƯỚNG NỘI xây kênh: 7 ngày, 7 video, không cần nói 1 câu | Lịch 7 ngày, mỗi ngày 1 dạng video chỉ chữ + tay/màn hình |
-| E6 | KN | HƯỚNG NỘI | HƯỚNG NỘI ngại nói trước camera? 3 mẹo quay 1 lần là xong | Đọc kịch bản qua tai nghe · quay từng câu · thu tiếng trước rồi ghép hình |
-| E7 | TH | CONTENT IDEA | 20 CONTENT IDEA cho personal brand — không cần có sản phẩm | 20 ý chia 4 nhóm: kiến thức · hậu trường · quan điểm · kết quả |
-| E8 | KN | CONTENT IDEA | Bí CONTENT IDEA? 1 bình luận = 1 video, làm thế này | 4 bước: lọc câu hỏi · nhóm lại · trả lời bằng video · ghim |
-| E9 | TH | PERSONAL BRAND | PERSONAL BRAND trong 7 ngày — làm đúng thứ tự này | Ngày 1 chọn 1 chủ đề → … → ngày 7 đăng video giới thiệu bản thân |
-| E10 | KN | PERSONAL BRAND | 3 thứ người lạ nhìn vào để quyết định follow PERSONAL BRAND của bạn | Ảnh đại diện · 1 dòng bio · 3 video ghim (khác "7 thứ cần thiết lập" — kiểm tra lại video cũ) |
-| E11 | TH | THUẬT TOÁN | Video bị bóp view? Kiểm tra 5 thứ này trước khi trách THUẬT TOÁN | Bỏ đi giây đầu · chữ che UI · nhạc/âm thanh · đăng lại nội dung cũ · ngắt quãng đăng [xác nhận từng mục] |
-| E12 | KN | THUẬT TOÁN | THUẬT TOÁN tìm kiếm: đặt từ khoá ở 4 chỗ để video lên tìm kiếm | Câu nói đầu · chữ trên màn hình · caption · tên file/ảnh bìa [xác nhận — nguồn blog, chưa chính thức] |
+| E1 ⭐ | TH | Câu mở đầu | 50 CÂU MỞ ĐẦU copy dùng ngay — thay tên ngách của bạn vào là xong | 50 mẫu câu có chỗ trống "___", chia 5 nhóm × 10 câu |
+| E2 | KN | Câu mở đầu | Câu mở đầu 100 view và câu mở đầu 1 triệu view — 20 cặp sửa cho bạn xem | 20 cặp "trước → sau" (ghi "ví dụ"), mỗi cặp chỉ ra chữ đã sửa |
+| E3 ⭐ | TH | Phông chữ Việt hoá | 50 PHÔNG CHỮ VIỆT HOÁ trong canva nhìn sang ngay — không lỗi dấu | Tên phông + mẫu chữ có dấu, chia 5 nhóm (có chân · không chân · tròn · viết tay · trang trí) [xác nhận từng phông trong canva] |
+| E4 | KN | Phông chữ Việt hoá | 20 CẶP PHÔNG CHỮ VIỆT HOÁ cho tiêu đề + nội dung — copy là dùng | Quy tắc ghép phông + 20 cặp mẫu |
+| E5 ⭐ | TH | Hướng nội | NGƯỜI HƯỚNG NỘI xây kênh: 30 ngày, 30 video, không cần nói 1 câu | Lịch 30 ngày, mỗi ngày 1 dạng video chỉ chữ + tay / màn hình |
+| E6 | KN | Hướng nội | Người hướng nội ngại camera? 15 MẸO quay 1 lần là xong | 15 mẹo chia 3 nhóm: trước khi quay · lúc quay · sau khi quay |
+| E7 | TH | Ý tưởng content | 50 Ý TƯỞNG CONTENT XÂY THƯƠNG HIỆU CÁ NHÂN — chưa có sản phẩm vẫn đăng đều mỗi ngày | 50 ý chia 5 nhóm: kiến thức · hậu trường · quan điểm · hành trình · kết quả |
+| E8 | KN | Ý tưởng content | Bí ý tưởng content? 30 KIỂU BÌNH LUẬN biến thành video ngay | 30 kiểu bình luận (hỏi giá, hỏi cách làm, phản đối…) → dạng video trả lời tương ứng |
+| E9 | TH | Thương hiệu cá nhân | XÂY THƯƠNG HIỆU CÁ NHÂN TỪ 0 TRONG 30 NGÀY — mỗi ngày 1 việc, làm theo là xong | 30 việc chia 4 tuần: tìm chủ đề → làm trang → đăng đều → kết nối (khác video "30 ngày xây kênh": đây là thương hiệu cá nhân, không phải kênh) |
+| E10 | KN | Thương hiệu cá nhân | 12 THỨ TRÊN TRANG CÁ NHÂN khiến người lạ bấm theo dõi — sửa xong trong 1 buổi | Ảnh đại diện · tên · 1 dòng giới thiệu · video ghim · ảnh bìa đồng bộ… [xác nhận không trùng video "7 thứ cần thiết lập"] |
+| E11 | TH | Thuật toán | Video bị bóp view? 20 LỖI cần kiểm tra trước khi trách THUẬT TOÁN | 20 lỗi chia 4 nhóm: câu mở đầu · hình · chữ · thói quen đăng [xác nhận từng mục] |
+| E12 | KN | Thuật toán | THUẬT TOÁN TÌM KIẾM: 10 CHỖ đặt từ khoá để video lên kết quả tìm kiếm | Câu nói đầu · chữ trên màn hình · mô tả · ảnh bìa · bình luận ghim · tên chuỗi video · giới thiệu trang… [xác nhận — nguồn blog, chưa chính thức] |
 
-⭐ E1: hook là mảng mạnh của kênh, mẫu điền chỗ trống = lưu nhiều.
-⭐ E3: font Việt hoá là nhu cầu riêng người Việt, tìm là dùng được ngay.
-⭐ E5: đúng người hướng nội, có lịch làm theo từng ngày.
+⭐ E1: mẫu điền chỗ trống, 50 câu = lý do để lưu.
+⭐ E3: phông Việt hoá là nhu cầu riêng người Việt.
+⭐ E5: đúng người hướng nội, có lịch 30 ngày làm theo.
