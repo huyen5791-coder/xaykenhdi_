@@ -30,6 +30,19 @@ Thư mục gốc Drive: [xaykenhdi_ - Video](https://drive.google.com/drive/fold
 | 17 | 50 phông chữ Việt hoá trong canva | [mở](https://drive.google.com/drive/folders/1pQsuAOOJ-yrs5eTQ7XiMGwIg_Y3mqxkp) | [Doc](https://docs.google.com/document/d/1nBWi6m4pLNuTmsgJeqvflNKlnneTtYoJT-KaQxTOBqY/edit) | 165VDsCKGNXcbyp3V3l0w_yCQ6F6t4LbP | 1zwbsDUtJM3foH9jMk_oGZf-2-TdT8ceb | ✅ đã dựng, clip 2.mov; phông 10 đổi Bodoni Moda → Old Standard TT (thiếu dấu); chờ góp ý |
 | 18 | Người hướng nội: 30 ngày, 30 video | [mở](https://drive.google.com/drive/folders/18D3TDDNuD6zNAIL2pxzfop4Fnbrl2sAg) | [Doc](https://docs.google.com/document/d/1TL-uzTULmk99QLNQo2jMz9nhx1aYfsjrUWkVZiOANi0/edit) | 1tXkumAuXfZ_tKlOJFKa1wlWAl5gHPUWA | 1HW78f9KWS1OAOjntpzvaLhOZDJRUfQZz | ✅ đã dựng, clip 3.mov; chờ góp ý |
 
+### Đợt E (tiếp) · script 12/11 — mỗi video 1 bộ màu (xem `style/edit-style.md`)
+| # | Video | Bộ màu | Thư mục | Kịch bản (Doc) | 1-nguon (id) | 2-xuat (id) | Trạng thái |
+|---|---|---|---|---|---|---|---|
+| 19 | Câu mở đầu 100 view và 1 triệu view (20 cặp) | Báo cũ đen trắng | [mở](https://drive.google.com/drive/folders/1wUHHwN8I9M9mvE8mXNEjfrNIZFtiH9yd) | [Doc](https://docs.google.com/document/d/12DobmvCMUPY-hIMjZB_HjUB4yvNAeGg9tBDtffJmHCk/edit) | 1S6lFlSpMtltzIjt0QnH0g6jldiV5u3NG | 1v46su9GYmy3meMMkZIGJ2sxU3RAUD1KN | chờ duyệt script + chờ clip |
+| 20 | 20 cặp phông chữ Việt hoá | Bạc hà san hô | [mở](https://drive.google.com/drive/folders/1rHD30SuyhbhexrbjldzffcPb4SkpDn_d) | [Doc](https://docs.google.com/document/d/1EUHsrB6JbI7rKECwnkCsCQjiiEgxvo-0_6A8SVzY6fk/edit) | 1A5--lOjJolokq0ooSqdYI1NZ9hCmFuFe | 1sBd8bZ9zK6LoL2IYHbf-SvRB8S14-cVK | chờ duyệt script + chờ clip |
+| 21 | Ngại camera? 15 mẹo quay 1 lần là xong | Tím oải hương | [mở](https://drive.google.com/drive/folders/1Z_vvBkZilsdYDjACDn7iFMwihWYboGtG) | [Doc](https://docs.google.com/document/d/1MVkcaKWXunvMZBUGvTlSnLrmbOnBN67turrozMLgXeU/edit) | 1Dr0l2nSrTk_91H6R4IreiIAVyw5Rpaah | 1k3vcTSrqJ2o2HVIyQA0fHuhbArXyKn58 | chờ duyệt script + chờ clip |
+| 22 | 50 ý tưởng content thương hiệu cá nhân | Cà phê sữa | [mở](https://drive.google.com/drive/folders/1aqhVK49lmJTccdbnU1FmwFRHJhdDOvDv) | [Doc](https://docs.google.com/document/d/1qiwJzPdXEhe5cJZ1tYv1BI-H04QLF8_NtXVLnIEkZxo/edit) | 1VfCHrDzlP32bTjZ6E47sNWMa65Tt-xLx | 1PXQQAktqSXbBPjjQ3St3rI3QoPs5AB-e | chờ duyệt script + chờ clip |
+| 23 | 30 kiểu bình luận biến thành video | Đêm xanh | [mở](https://drive.google.com/drive/folders/1D4g9mDQWnt7FqYKOxI-Hpdq2Us7Ngrvb) | [Doc](https://docs.google.com/document/d/16tvgoebl2S7eu7WX6yP1zavHyJ7fXaRj2jMA61HusuY/edit) | 1TFEkmaIhzmpKxGbrqSWSpknz5Q9k5AlC | 1z-caSoxWeXoHAxu4Ch_B0x_D7r5vMR-o | chờ duyệt script + chờ clip |
+| 24 | Thương hiệu cá nhân từ 0 trong 30 ngày | Cam đào | [mở](https://drive.google.com/drive/folders/1pMqiMMQsYtFHA3IZQ1hr7gbuVlsUOIbM) | [Doc](https://docs.google.com/document/d/10um7eIucAUbdudTtQ2I7Bu_zkKhb0lQUZPVher14zh0/edit) | 1BLMUJea-jbt_rXAcRIu2ZlNwsiM4VE_H | 1oV5Fvim63fusMtuK6EJnIVbwsxHEg8JZ | chờ duyệt script + chờ clip |
+| 25 | 12 thứ trên trang cá nhân | Xanh dương cổ điển | [mở](https://drive.google.com/drive/folders/11xvJHMPQzPuAoDis4MRZIZWmDwMQpTMC) | [Doc](https://docs.google.com/document/d/1CXRqAo1V92H4hXrz4y7w9jcKsXtVxGJ7yCtkbZZsZKc/edit) | 1q_7aaExj5U4STobfN-BI1jz0SqXYMwDy | 1LmWnqFEGE9rShsidctZMCjhJOnfC3odE | chờ duyệt script + chờ clip |
+| 26 | Bị bóp view? 20 lỗi cần kiểm tra | Băng cảnh báo | [mở](https://drive.google.com/drive/folders/1sVUpbe3iPsq6ZSXNd6d9GiPPLy9Gdea5) | [Doc](https://docs.google.com/document/d/15eX0m7uETXWZlcZ8P46qnXnhr3Wn9KsiYrpGdzRtee4/edit) | 19HW-wx91Hm8ZsELQfCqfUDPtaVZf_bIW | 1VrCoA1rT9y849LchUwJ5yA5YXoRJYE-V | chờ duyệt script + chờ clip |
+| 27 | Thuật toán tìm kiếm: 10 chỗ đặt từ khoá | Hồng đất | [mở](https://drive.google.com/drive/folders/1GsaeNP9j_C1hPc5Kw29WjMi-RlXfNRyD) | [Doc](https://docs.google.com/document/d/1wjTNPNbewdeDSleZNcJHdromY26EbLMuCREqCNDmdd4/edit) | 1DiZb0nvXorLSZzezmb1imtIpq8rAS3M4 | 1VEeqfU3gBD2umGsAt3TsSY0kSpM3terp | chờ duyệt script + chờ clip |
+
 ## Đang chờ quay
 - Edit video cực nhanh bằng AI (~60 s, 5 bước, CTA "PHẦN 2") — kịch bản trong Project "Edit video" trên claude.ai.
 - Bài viết dùng AI đọc là nhận ra (bản thay thế, cùng cấu trúc).
@@ -121,17 +134,17 @@ Quy tắc: số mục ≥ 10 (ưu tiên 20–50); chỉ giữ các từ tiếng 
 | # | Loại | Từ khoá | Hook | Thân video |
 |---|---|---|---|---|
 | E1 ⭐ ✅→#16 | TH | Câu mở đầu | 50 CÂU MỞ ĐẦU copy dùng ngay — thay tên ngách của bạn vào là xong | 50 mẫu câu có chỗ trống "___", chia 5 nhóm × 10 câu |
-| E2 | KN | Câu mở đầu | Câu mở đầu 100 view và câu mở đầu 1 triệu view — 20 cặp sửa cho bạn xem | 20 cặp "trước → sau" (ghi "ví dụ"), mỗi cặp chỉ ra chữ đã sửa |
+| E2 ✅→#19 | KN | Câu mở đầu | Câu mở đầu 100 view và câu mở đầu 1 triệu view — 20 cặp sửa cho bạn xem | 20 cặp "trước → sau" (ghi "ví dụ"), mỗi cặp chỉ ra chữ đã sửa |
 | E3 ⭐ ✅→#17 | TH | Phông chữ Việt hoá | 50 PHÔNG CHỮ VIỆT HOÁ trong canva nhìn sang ngay — không lỗi dấu | Tên phông + mẫu chữ có dấu, chia 5 nhóm (có chân · không chân · tròn · viết tay · trang trí) [xác nhận từng phông trong canva] |
-| E4 | KN | Phông chữ Việt hoá | 20 CẶP PHÔNG CHỮ VIỆT HOÁ cho tiêu đề + nội dung — copy là dùng | Quy tắc ghép phông + 20 cặp mẫu |
+| E4 ✅→#20 | KN | Phông chữ Việt hoá | 20 CẶP PHÔNG CHỮ VIỆT HOÁ cho tiêu đề + nội dung — copy là dùng | Quy tắc ghép phông + 20 cặp mẫu |
 | E5 ⭐ ✅→#18 | TH | Hướng nội | NGƯỜI HƯỚNG NỘI xây kênh: 30 ngày, 30 video, không cần nói 1 câu | Lịch 30 ngày, mỗi ngày 1 dạng video chỉ chữ + tay / màn hình |
-| E6 | KN | Hướng nội | Người hướng nội ngại camera? 15 MẸO quay 1 lần là xong | 15 mẹo chia 3 nhóm: trước khi quay · lúc quay · sau khi quay |
-| E7 | TH | Ý tưởng content | 50 Ý TƯỞNG CONTENT XÂY THƯƠNG HIỆU CÁ NHÂN — chưa có sản phẩm vẫn đăng đều mỗi ngày | 50 ý chia 5 nhóm: kiến thức · hậu trường · quan điểm · hành trình · kết quả |
-| E8 | KN | Ý tưởng content | Bí ý tưởng content? 30 KIỂU BÌNH LUẬN biến thành video ngay | 30 kiểu bình luận (hỏi giá, hỏi cách làm, phản đối…) → dạng video trả lời tương ứng |
-| E9 | TH | Thương hiệu cá nhân | XÂY THƯƠNG HIỆU CÁ NHÂN TỪ 0 TRONG 30 NGÀY — mỗi ngày 1 việc, làm theo là xong | 30 việc chia 4 tuần: tìm chủ đề → làm trang → đăng đều → kết nối (khác video "30 ngày xây kênh": đây là thương hiệu cá nhân, không phải kênh) |
-| E10 | KN | Thương hiệu cá nhân | 12 THỨ TRÊN TRANG CÁ NHÂN khiến người lạ bấm theo dõi — sửa xong trong 1 buổi | Ảnh đại diện · tên · 1 dòng giới thiệu · video ghim · ảnh bìa đồng bộ… [xác nhận không trùng video "7 thứ cần thiết lập"] |
-| E11 | TH | Thuật toán | Video bị bóp view? 20 LỖI cần kiểm tra trước khi trách THUẬT TOÁN | 20 lỗi chia 4 nhóm: câu mở đầu · hình · chữ · thói quen đăng [xác nhận từng mục] |
-| E12 | KN | Thuật toán | THUẬT TOÁN TÌM KIẾM: 10 CHỖ đặt từ khoá để video lên kết quả tìm kiếm | Câu nói đầu · chữ trên màn hình · mô tả · ảnh bìa · bình luận ghim · tên chuỗi video · giới thiệu trang… [xác nhận — nguồn blog, chưa chính thức] |
+| E6 ✅→#21 | KN | Hướng nội | Người hướng nội ngại camera? 15 MẸO quay 1 lần là xong | 15 mẹo chia 3 nhóm: trước khi quay · lúc quay · sau khi quay |
+| E7 ✅→#22 | TH | Ý tưởng content | 50 Ý TƯỞNG CONTENT XÂY THƯƠNG HIỆU CÁ NHÂN — chưa có sản phẩm vẫn đăng đều mỗi ngày | 50 ý chia 5 nhóm: kiến thức · hậu trường · quan điểm · hành trình · kết quả |
+| E8 ✅→#23 | KN | Ý tưởng content | Bí ý tưởng content? 30 KIỂU BÌNH LUẬN biến thành video ngay | 30 kiểu bình luận (hỏi giá, hỏi cách làm, phản đối…) → dạng video trả lời tương ứng |
+| E9 ✅→#24 | TH | Thương hiệu cá nhân | XÂY THƯƠNG HIỆU CÁ NHÂN TỪ 0 TRONG 30 NGÀY — mỗi ngày 1 việc, làm theo là xong | 30 việc chia 4 tuần: tìm chủ đề → làm trang → đăng đều → kết nối (khác video "30 ngày xây kênh": đây là thương hiệu cá nhân, không phải kênh) |
+| E10 ✅→#25 | KN | Thương hiệu cá nhân | 12 THỨ TRÊN TRANG CÁ NHÂN khiến người lạ bấm theo dõi — sửa xong trong 1 buổi | Ảnh đại diện · tên · 1 dòng giới thiệu · video ghim · ảnh bìa đồng bộ… [xác nhận không trùng video "7 thứ cần thiết lập"] |
+| E11 ✅→#26 | TH | Thuật toán | Video bị bóp view? 20 LỖI cần kiểm tra trước khi trách THUẬT TOÁN | 20 lỗi chia 4 nhóm: câu mở đầu · hình · chữ · thói quen đăng [xác nhận từng mục] |
+| E12 ✅→#27 | KN | Thuật toán | THUẬT TOÁN TÌM KIẾM: 10 CHỖ đặt từ khoá để video lên kết quả tìm kiếm | Câu nói đầu · chữ trên màn hình · mô tả · ảnh bìa · bình luận ghim · tên chuỗi video · giới thiệu trang… [xác nhận — nguồn blog, chưa chính thức] |
 
 ⭐ E1: mẫu điền chỗ trống, 50 câu = lý do để lưu.
 ⭐ E3: phông Việt hoá là nhu cầu riêng người Việt.

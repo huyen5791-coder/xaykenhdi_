@@ -10,7 +10,23 @@
 - Font: TeX Gyre Termes nghiêng đậm (tiêu đề, câu nhấn) · Montserrat (thân, nhãn; Black cho dòng hook in hoa).
 - Handle `@xaykenhdi_` góc trên trái suốt video: pill xanh rêu, viền xanh chuối, có sao lấp lánh nhỏ.
 
-## Chất liệu (đổi giữa các video, giữ màu + font)
+## Bộ màu & kiểu dựng — ĐỔI MỖI VIDEO (chủ kênh chốt 12/11)
+Không dùng cùng 1 bộ màu cho 2 video liền nhau. Giữ cố định: handle `@xaykenhdi_`, font chữ (TeX Gyre Termes + Montserrat), quy tắc bắt buộc. Đổi: màu giấy, màu chữ, màu nhấn, chất liệu, đồ trang trí. Script ghi rõ dòng **Style:** ở đầu.
+| Bộ | Giấy / nền chữ | Chữ | Nhấn | Chất liệu, trang trí | Đã dùng |
+|---|---|---|---|---|---|
+| Kẹo ngọt | kem, hồng, xanh chuối, vàng | nâu | xanh chuối / vàng | giấy xé, washi | 16, 17, 18 |
+| Báo cũ đen trắng | giấy báo xám | đen | đỏ doodle `#AA323E`, vàng | chữ ransom, gạch đỏ | 19 |
+| Bạc hà san hô | bạc hà `#BFE8D6`, trắng | xanh rêu đậm | san hô `#FF7F6E` | thẻ mẫu màu sơn | 20 |
+| Tím oải hương | tím nhạt `#D9CCF2`, trắng | tím than `#3B2C5E` | vàng chanh | giấy note xếp tầng | 21 |
+| Cà phê sữa | kraft `#C8A27A`, kem | nâu đậm | cam đất `#D9773B` | tem bưu chính, dây gai | 22 |
+| Đêm xanh | xanh than `#1F2A44` | kem | vàng nắng | bong bóng chat giấy, sao bạc | 23 |
+| Cam đào | cam đào `#FFD3B6`, trắng | nâu | xanh dương `#3A6EA5` | lịch bàn khoen tròn, tick | 24 |
+| Xanh dương cổ điển | thẻ thư viện kẻ ô xanh | xanh than | vàng, mộc đỏ | dấu mộc "ĐÃ SỬA" | 25 |
+| Băng cảnh báo | vàng + sọc đen | đen | đỏ | ô đánh dấu, dấu X | 26 |
+| Hồng đất | hồng đất `#C97B6B`, xanh lá đậm `#2F4A3A` | kem | vàng | ô tìm kiếm cắt giấy, kính lúp | 27 |
+Hết bảng thì quay vòng nhưng đổi chất liệu.
+
+## Chất liệu (đổi giữa các video)
 Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy báo · vở lò xo · lịch xé · hoá đơn in nhiệt · bảng ghim · băng dính washi (có chữ) · sticker 3D bóng (`r3d`) · chữ cắt dán ransom · doodle vẽ tay trên giấy báo · Fluent Emoji · **bản đồ 3D isometric** (nền thành phố three.js, chữ vẫn trên giấy — xem `style/map-3d.md`).
 
 ## Bố cục & chuyển động
