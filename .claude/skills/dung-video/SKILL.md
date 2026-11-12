@@ -20,5 +20,8 @@ Media (clip, mp4, wav, frames) để trong `work/`, không commit.
 1. Đọc `BOARD.md` "Đang làm", lấy các video trạng thái "sẵn sàng dựng" (script đã duyệt + có clip trong `1-nguon`).
 2. Với mỗi video: đọc lại Google Doc kịch bản (bản chủ kênh đã sửa) → cập nhật `noi-dung.md` → tải clip trong `1-nguon` về `work/` → dựng như các bước trên.
 3. Up mp4 vào `2-xuat`, đổi trạng thái "đã dựng" trong `BOARD.md`. Xong cả đợt thì gửi chủ kênh danh sách link.
-4. Clip quá lớn không tải được qua công cụ Drive → báo chủ kênh, không bỏ qua im lặng.
+4. **Giới hạn công cụ Drive:** tải về tối đa 10 MB, gửi lên tối đa ~3 MB mỗi lần. Vì vậy:
+   - Clip nguồn: các thư mục `1-nguon` đã bật "ai có link đều xem" (chủ kênh cho phép 12/11). Tải bằng `curl -sSL -o work/srcNN/<tên> "https://drive.usercontent.google.com/download?id=<fileId>&export=download&confirm=t"` (lấy fileId bằng search_files `parentId = '<id 1-nguon>'`). Thư mục `1-nguon` tạo mới cũng phải bật chia sẻ link (share_file, permissionId `anyoneWithLink`, role `reader`).
+   - Video xuất: gửi chủ kênh qua chat (SendUserFile); chỉ up vào `2-xuat` nếu file < 3 MB.
+5. Clip quay mặt: xem contact sheet, mặt ở nửa trên → dồn chữ xuống nửa dưới, thu nhỏ dòng, dùng giấy trơn (đường kẻ cắt ngang chữ nhỏ). Mẫu: `projects/16-50-cau-mo-dau/compose.py` (tự đổi bố cục khi có clip).
 

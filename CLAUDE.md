@@ -14,7 +14,7 @@ xaykenhdi_ - Video/
   NN-<slug>/
     Kich ban NN - <tên>   (Google Doc: script để chủ kênh duyệt / bình luận)
     1-nguon/               (chủ kênh up clip quay dọc vào đây)
-    2-xuat/                (agent up video đã dựng)
+    2-xuat/                (video đã dựng; file > 3 MB agent gửi qua chat, chủ kênh tự kéo vào)
 ```
 Ghi link thư mục vào `BOARD.md` mục "Đang làm". Chỉ dựng video có script đã duyệt **và** đã có clip trong `1-nguon`.
 

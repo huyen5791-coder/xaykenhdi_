@@ -77,6 +77,8 @@ def make_bg():
     dark = Image.new('RGBA', (W, H), (205, 190, 160, 255)); dark.putalpha(v.point(lambda a: int((255 - a) * 0.55)))
     bg.alpha_composite(dark); return bg
 BG = make_bg() if SRC == 'none' else None
+CLIP = SRC != 'none'   # có clip quay mặt: mặt ở nửa trên (y≈380–1150) -> chữ dồn xuống dưới
+HOOK_Y = [1450, 1690, 1920] if CLIP else [1150, 1400, 1650]
 
 # ---------- HOOK ----------
 HANDLE = pill('@xaykenhdi_', F('Bold', 42), 80, GREEN, LIME, CREAM)
@@ -96,39 +98,42 @@ SUB = rot(washi('Thay tên ngách của bạn vào chỗ ___ là xong', F('Extra
 E_HAND = emoji('writing-hand', 200); E_MEMO = emoji('memo', 150)
 
 # ---------- 5 TRANG ----------
-PW = 1300; HEAD = 150; ROWH = 112; PH = HEAD + 10 * ROWH + 30
+PW = 1340 if CLIP else 1300; HEAD = 118 if CLIP else 150; ROWH = 82 if CLIP else 112; PH = HEAD + 10 * ROWH + 30
 STYLE = [(CREAM, 'grid'), (PINK, 'plain'), (LIME, 'grid'), (YELLOW, 'plain'), (CREAM, 'lined')]
+if CLIP: STYLE = [(c, 'plain') for c, _ in STYLE]   # chữ nhỏ: bỏ đường kẻ để không cắt ngang chữ
 TAPE = [YELLOW, LIME, PINK, LIME, PINK]
 fNum = F('Black', 34); fHead = F('ExtraBold', 40)
 def row_font(texts):
-    for sz in range(46, 33, -1):
+    for sz in (range(36, 27, -1) if CLIP else range(46, 33, -1)):
         f = F('SemiBold', sz)
         if max(blank_w(s, f) for s in texts) <= PW - 230: return f
-    return F('SemiBold', 34)
+    return F('SemiBold', 28 if CLIP else 34)
 PAGES = []
 for pi, (gname, a, b) in enumerate(GROUPS):
     a, b = int(a), int(b); col, kind = STYLE[pi]
     S, m = paper_sheet(PW, PH, col, 1700 + pi * 11, kind=kind, amp=10, cells=60)
     d = ImageDraw.Draw(S); x0 = m + 60
-    d.rectangle([x0 + 5, m + 40, x0 + 235, m + 112], fill=BROWN + (255,))
-    d.rectangle([x0, m + 34, x0 + 230, m + 106], fill=GREEN + (255,))
-    d.text((x0 + 115, m + 71), f'{a:02d}–{b:02d}', font=F('Black', 44), fill=YELLOW, anchor='mm')
+    hy = -14 if CLIP else 0
+    d.rectangle([x0 + 5, m + 40 + hy, x0 + 235, m + 112 + hy], fill=BROWN + (255,))
+    d.rectangle([x0, m + 34 + hy, x0 + 230, m + 106 + hy], fill=GREEN + (255,))
+    d.text((x0 + 115, m + 71 + hy), f'{a:02d}–{b:02d}', font=F('Black', 44), fill=YELLOW, anchor='mm')
     x = x0 + 262
-    for ch in gname.upper(): d.text((x, m + 88), ch, font=fHead, fill=BROWN, anchor='ls'); x += fHead.getlength(ch) + 3
+    for ch in gname.upper(): d.text((x, m + 88 + hy), ch, font=fHead, fill=BROWN, anchor='ls'); x += fHead.getlength(ch) + 3
     S.alpha_composite(tape(180, 52, 1750 + pi, color=TAPE[pi], alpha=215), ((m + PW - 170) if pi % 2 == 0 else (m - 40), m - 26))
     texts = [ITEMS[n] for n in range(a, b + 1)]; fR = row_font(texts)
     rows = []
     for j, n in enumerate(range(a, b + 1)):
         R = Image.new('RGBA', (PW - 40, ROWH), (0, 0, 0, 0)); dr = ImageDraw.Draw(R)
         c = [PINK, LIME][j % 2] if col not in (PINK, LIME) else CREAM
-        dr.ellipse([40, 22, 112, 94], fill=c + (255,), outline=BROWN + (255,), width=4)
-        dr.text((76, 59), str(n), font=fNum, fill=BROWN, anchor='mm')
-        blank_text(dr, 140, 74, ITEMS[n], fR, BROWN)
+        cy_ = ROWH / 2; rr = 28 if CLIP else 36
+        dr.ellipse([76 - rr, cy_ - rr, 76 + rr, cy_ + rr], fill=c + (255,), outline=BROWN + (255,), width=4)
+        dr.text((76, cy_), str(n), font=F('Black', 26) if CLIP else fNum, fill=BROWN, anchor='mm')
+        blank_text(dr, 130, cy_ + fR.size * 0.36, ITEMS[n], fR, BROWN, slot=76 if CLIP else 96)
         if j < 9:
             for xx in range(140, PW - 120, 14): dr.ellipse([xx, ROWH - 5, xx + 4, ROWH - 1], fill=GREEN + (55,))
         rows.append((R, m + 20, m + HEAD + j * ROWH))
     PAGES.append((S, m, rows))
-PAGE_CY = 1230
+PAGE_CY = 1700 if CLIP else 1230
 PAGE_ANG = [-0.9, 0.8, -0.7, 0.9, -0.8]
 
 # ---------- CHỐT ----------
@@ -162,15 +167,15 @@ def frame(t):
     if t < T_HOOK_OUT + 0.35:
         out = ease_in_cubic(prog(t, T_HOOK_OUT, 0.3)); ha = 1 - out; up = -260 * out
         p = prog(t, T_LA, 0.35)
-        paste(cv, LA, 720, 1150 + up, 0.5 + 0.5 * ease_out_back(p), 0, min(1, p * 3) * ha)
+        paste(cv, LA, 720, HOOK_Y[0] + up, 0.5 + 0.5 * ease_out_back(p), 0, min(1, p * 3) * ha)
         p = ease_out_back(prog(t, T_LB, 0.35))
-        paste(cv, LB, 760, 1400 + up, p, 0, min(1, p * 3) * ha)
+        paste(cv, LB, 760, HOOK_Y[1] + up, p, 0, min(1, p * 3) * ha)
         pm = ease_out_back(prog(t, T_LB + 0.2, 0.35))
-        paste(cv, E_HAND, 1230, 880 + up + 8 * math.sin(t * 4), pm, 6 * math.sin(t * 3), ha)
-        paste(cv, sf('pencil', t, 0.5), 230, 1620 + up, pm * 0.9, 0, ha)
+        paste(cv, E_HAND, 1250, HOOK_Y[0] - 250 + up + 8 * math.sin(t * 4), pm, 6 * math.sin(t * 3), ha)
+        paste(cv, sf('pencil', t, 0.5), 200, HOOK_Y[1] + 120 + up, pm * 0.9, 0, ha)
         p = ease_out_cubic(prog(t, T_SUB, 0.35))
-        paste(cv, SUB, 720 - 1100 * (1 - p), 1650 - up * 0.8, 1, 0, min(1, prog(t, T_SUB, 0.12)) * ha)
-        paste(cv, sf('sparkle', t, 0.45), 1260, 1560, ease_out_back(prog(t, T_SUB + 0.2, 0.3)) * 0.8 * ha, 0, 1)
+        paste(cv, SUB, 720 - 1100 * (1 - p), HOOK_Y[2] - up * 0.8, 1, 0, min(1, prog(t, T_SUB, 0.12)) * ha)
+        paste(cv, sf('sparkle', t, 0.45), 1260, HOOK_Y[2] - 90, ease_out_back(prog(t, T_SUB + 0.2, 0.3)) * 0.8 * ha, 0, 1)
 
     for pi in range(5):
         t0 = T_PG[pi]; t1 = T_PG[pi + 1] if pi < 4 else T_PG_END
@@ -193,15 +198,23 @@ def frame(t):
 
     if t >= T_O:
         p = prog(t, T_O, 0.38)
-        paste(cv, O, 720, 1250, 0.45 + 0.55 * ease_out_back(p), -8 * (1 - ease_out_cubic(p)), min(1, p * 3))
+        paste(cv, O, 720, 1700 if CLIP else 1250, 0.45 + 0.55 * ease_out_back(p), -8 * (1 - ease_out_cubic(p)), min(1, p * 3))
         pk = ease_out_back(prog(t, T_O + 0.25, 0.35))
-        paste(cv, E_BOOK, 1210, 1020 + 8 * math.sin(t * 4), pk, 8 * math.sin(t * 5), 1)
-        paste(cv, sf('sparkle', t, 0.45), 210, 1480, pk * 0.8, 0, 1)
-        paste(cv, TW[54], 1180, 1500, pk * (0.8 + 0.2 * math.sin(t * 7)), t * 40, 1)
+        paste(cv, E_BOOK, 1210, (1470 if CLIP else 1020) + 8 * math.sin(t * 4), pk, 8 * math.sin(t * 5), 1)
+        paste(cv, sf('sparkle', t, 0.45), 210, 1930 if CLIP else 1480, pk * 0.8, 0, 1)
+        paste(cv, TW[54], 1180, 1950 if CLIP else 1500, pk * (0.8 + 0.2 * math.sin(t * 7)), t * 40, 1)
     return cv
 
+_CF = {}
 def with_bg(t):
-    im = BG.copy(); im.alpha_composite(frame(t)); return im
+    if BG is not None: im = BG.copy()
+    else:
+        k = min(t, 12.3)
+        if k not in _CF:
+            raw = subprocess.run(['ffmpeg', '-v', 'error', '-ss', str(k), '-i', SRC, '-frames:v', '1', '-vf', 'scale=1440:2560', '-f', 'rawvideo', '-pix_fmt', 'rgba', '-'], capture_output=True).stdout
+            _CF[k] = Image.frombytes('RGBA', (W, H), raw)
+        im = _CF[k].copy()
+    im.alpha_composite(frame(t)); return im
 
 if PREVIEW:
     os.makedirs(f'{ROOT}/work', exist_ok=True)
