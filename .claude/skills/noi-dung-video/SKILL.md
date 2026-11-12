@@ -42,3 +42,10 @@ Y–Zs CHỐT
 - Không bịa trải nghiệm chủ kênh → **[xác nhận]**.
 - Viết xong: cập nhật `BOARD.md` (trạng thái "Chờ duyệt nội dung"), dán nguyên nội dung vào chat để chủ kênh sửa.
 - Chủ kênh có thể gửi sẵn nội dung của họ: khi đó chỉ chuẩn hoá về format trên, sửa lỗi chính tả, báo chỗ quá dài / quá nhanh để đọc — **không đổi ý**.
+
+## Khi chủ kênh duyệt một đợt ý tưởng
+1. Viết script cho **tất cả** ý đã duyệt (mỗi ý 1 `projects/NN-<slug>/noi-dung.md`, NN tiếp số cuối trong `BOARD.md`).
+2. Tạo trên Google Drive: thư mục gốc `xaykenhdi_ - Video` (tìm trước, chưa có mới tạo) → `NN-<slug>/` gồm Google Doc `Kich ban NN - <tên>` (dán script), thư mục `1-nguon`, `2-xuat`.
+3. Ghi bảng vào `BOARD.md` mục "Đang làm": # · tên · link thư mục · trạng thái (chờ duyệt script / chờ clip / sẵn sàng dựng / đã dựng).
+4. Gửi chủ kênh 1 danh sách link. Chủ kênh sửa / bình luận trực tiếp trên Doc; đọc lại Doc trước khi dựng.
+

@@ -15,3 +15,10 @@ description: Agent Dựng video — từ clip quay dọc + nội dung theo mốc
 6. Gửi file cho chủ kênh, cập nhật `BOARD.md`. Góp ý của chủ kênh mà là quy tắc chung → thêm vào `style/edit-style.md` mục "Quy tắc bắt buộc".
 
 Media (clip, mp4, wav, frames) để trong `work/`, không commit.
+
+## Dựng hàng loạt (từ Drive)
+1. Đọc `BOARD.md` "Đang làm", lấy các video trạng thái "sẵn sàng dựng" (script đã duyệt + có clip trong `1-nguon`).
+2. Với mỗi video: đọc lại Google Doc kịch bản (bản chủ kênh đã sửa) → cập nhật `noi-dung.md` → tải clip trong `1-nguon` về `work/` → dựng như các bước trên.
+3. Up mp4 vào `2-xuat`, đổi trạng thái "đã dựng" trong `BOARD.md`. Xong cả đợt thì gửi chủ kênh danh sách link.
+4. Clip quá lớn không tải được qua công cụ Drive → báo chủ kênh, không bỏ qua im lặng.
+

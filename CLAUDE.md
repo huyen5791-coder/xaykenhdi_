@@ -3,11 +3,21 @@
 Đội agent làm video ngắn dọc cho kênh **@xaykenhdi_**: xây kênh TikTok / Reels từ 0, kênh giấu mặt, bán hàng online.
 Nói chuyện với chủ kênh bằng **tiếng Việt**, ngắn gọn.
 
-## Quy trình
+## Quy trình (chủ kênh chốt 12/11)
 ```
-y-tuong ─> [chủ kênh chọn ý] ─> noi-dung-video ─> [chủ kênh sửa, quay clip dọc]
-        ─> dung-video ─> [chủ kênh góp ý / tự đăng]
+y-tuong ─> [chủ kênh duyệt ý] ─> noi-dung-video: viết script TẤT CẢ ý đã duyệt + tạo thư mục Drive
+        ─> [chủ kênh duyệt script + up clip nguồn lên Drive] ─> dung-video: dựng HÀNG LOẠT ─> mp4 lên Drive
 ```
+Thư mục Drive (tạo bằng công cụ Google Drive, mỗi video 1 thư mục):
+```
+xaykenhdi_ - Video/
+  NN-<slug>/
+    Kich ban NN - <tên>   (Google Doc: script để chủ kênh duyệt / bình luận)
+    1-nguon/               (chủ kênh up clip quay dọc vào đây)
+    2-xuat/                (agent up video đã dựng)
+```
+Ghi link thư mục vào `BOARD.md` mục "Đang làm". Chỉ dựng video có script đã duyệt **và** đã có clip trong `1-nguon`.
+
 | Agent (skill) | Việc | Đầu ra |
 |---|---|---|
 | `y-tuong` | Đề xuất chủ đề, không trùng video cũ | Bảng ý tưởng trong `BOARD.md` |
