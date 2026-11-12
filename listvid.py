@@ -80,25 +80,23 @@ def run(cfg):
     # ---- HOOK ----
     big, acc, acc_hl, sub = cfg['hook']
     HANDLE = pill('@xaykenhdi_', F('Bold', 42), 80, GREEN, LIME, CREAM)
-    fA = fit('Black', 132, big, 1100, 70)
-    LA, ma = paper_sheet(1200, 210, T['hookA'], num * 100 + 1, amp=10, cells=40)
-    if T['ransom']:
-        tiles = ransom_word(big, 96, num * 100 + 7); tw = sum((t[0].width - 6) if t else 34 for t in tiles)
-        RW = Image.new('RGBA', (tw + 40, 200), (0, 0, 0, 0)); x = 20
-        for t in tiles:
-            if not t: x += 34; continue
-            RW.alpha_composite(t[0], (int(x), int(100 - t[0].height / 2 + t[1] * 0.5))); x += t[0].width - 6
-        sc = min(1, 1140 / RW.width); RW = RW.resize((int(RW.width * sc), int(RW.height * sc)), Image.LANCZOS)
-        LA.alpha_composite(RW, (int(ma + 600 - RW.width / 2), int(ma + 105 - RW.height / 2)))
-    else:
-        ImageDraw.Draw(LA).text((ma + 600, ma + 105 + fA.size * 0.36), big, font=fA, fill=T['hookA_fg'], anchor='ms')
+    LINES = big.split('\n')
+    fA = fit('Black', cfg.get('big_size', 132), max(LINES, key=len), 1100, 70)
+    LAH = int(80 + len(LINES) * fA.size * 1.05)
+    LA, ma = paper_sheet(1200, LAH, T['hookA'], num * 100 + 1, amp=10, cells=40)
+    dA = ImageDraw.Draw(LA)
+    for k, ln in enumerate(LINES):
+        dA.text((ma + 600, ma + 40 + (k + 0.78) * fA.size * 1.05), ln, font=fA, fill=T['hookA_fg'], anchor='ms')
     LA.alpha_composite(tape(150, 46, num * 100 + 2, color=T['hookA_tape'], alpha=215), (ma - 30, ma - 22))
     LA = shadowed(rot(LA, -1.5), (7, 12), 10, 0.38)
-    fB = fit('tbi', 118, acc, 820, 70)
-    LB, mb = paper_sheet(920, 175, T['hookB'], num * 100 + 3, amp=11, cells=40)
-    hl_line(ImageDraw.Draw(LB), mb + 460, mb + 128, acc, acc_hl, fB, T['hookB_fg'], T['hookB_hl'])
+    BL = acc.split('\n')
+    fB = fit('tbi', cfg.get('acc_size', 118), max(BL, key=len), 1100, 60)
+    LBW = int(min(1220, max(700, max(fB.getlength(x) for x in BL) + 140)))
+    LB, mb = paper_sheet(LBW, int(fB.size * (0.45 + 1.08 * len(BL))), T['hookB'], num * 100 + 3, amp=11, cells=40)
+    for k, ln in enumerate(BL):
+        hl_line(ImageDraw.Draw(LB), mb + LBW / 2, mb + fB.size * (1.08 + 1.05 * k), ln, acc_hl if acc_hl in ln else None, fB, T['hookB_fg'], T['hookB_hl'])
     LB = shadowed(rot(LB, 1.8), (7, 12), 10, 0.38)
-    SUB = rot(washi(sub, fit('ExtraBold', 46, sub, 1150, 32), 100, T['sub'], T['sub_fg'], num * 100 + 5), -1.5)
+    SUB = rot(washi(sub, fit('ExtraBold', 46, sub, 1150, 32), 100, T['sub'], T['sub_fg'], num * 100 + 5), -1.5) if sub else None
     E_HOOK = emoji(cfg['emojis'][0], 200); E_OUT = emoji(cfg['emojis'][1], 180)
 
     # ---- PAGES ----
@@ -168,9 +166,12 @@ def run(cfg):
             paste(cv, LA, 720, HOOK_Y[0] + up, br, 0, ha)
             paste(cv, LB, 760, HOOK_Y[1] + up, 1 + 0.02 * math.sin(t * 3.2 + 1), 0, ha)
             paste(cv, E_HOOK, 1250, HOOK_Y[0] - 250 + up + 8 * math.sin(t * 4), 1, 6 * math.sin(t * 3), ha)
-            paste(cv, sf('pencil', t, 0.5), 200, HOOK_Y[1] + 120 + up, 0.9, 0, ha)
-            paste(cv, SUB, 720, HOOK_Y[2] - up * 0.8, 1, 0, ha)
-            paste(cv, sf('sparkle', t, 0.45), 1260, HOOK_Y[2] - 90, 0.8 * ha, 0, 1)
+            paste(cv, sf('pencil', t, 0.5), 130, HOOK_Y[1] + 110 + up, 0.9, 0, ha)
+            if SUB is not None:
+                paste(cv, SUB, 720, HOOK_Y[2] - up * 0.8, 1, 0, ha)
+                paste(cv, sf('sparkle', t, 0.45), 1260, HOOK_Y[2] - 90, 0.8 * ha, 0, 1)
+            else:
+                paste(cv, sf('sparkle', t, 0.45), 1270, HOOK_Y[1] - 90, 0.8 * ha, 0, 1)
         for pi in range(NP):
             t0 = T_PG[pi]; t1 = T_PG[pi + 1] if pi < NP - 1 else T_PG_END
             if not (t0 <= t < t1 + 0.35): continue

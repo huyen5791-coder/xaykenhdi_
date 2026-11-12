@@ -28,12 +28,12 @@ def draw_row(R, dr, it, j, rowh, clip, c, ctx):
     dr.text((x, y2), '→ ', font=fn, fill=RED_, anchor='ls'); dr.text((x + wa, y2), new, font=fn, fill=INK, anchor='ls')
 
 run(dict(num=19, src=sys.argv[1], out=sys.argv[2], preview=len(sys.argv) > 3, dur=16.7, page_dur=2.8, rstep=0.1,
-         rowh=(132, 150), page_low=True, hook_y=[1540, 1770, 1990],
-         theme=dict(hookA=NEWS, ransom=True, hookA_tape=RED_, hookB=INK, hookB_fg=NEWS, hookB_hl=RED_, sub=YEL, sub_fg=INK,
+         rowh=(132, 150), page_low=True, hook_y=[1530, 1830, 2030], big_size=170,
+         theme=dict(hookA=NEWS, hookA_fg=INK, hookA_tape=RED_, hookB=INK, hookB_fg=NEWS, hookB_hl=RED_, sub=YEL, sub_fg=INK,
                     label_bg=INK, label_fg=YEL, label_sh=RED_, title_fg=INK, tape=[(240, 236, 226)] * 4, header_rule=INK,
                     out=NEWS, out_fg=INK, out_hl=YEL, doodle=RED_, dots=INK, badges=[INK]),
          styles=[(NEWS, 'plain'), (NEWS2, 'plain')],
-         hook=('CÂU MỞ ĐẦU 100 VIEW', 'và câu 1 triệu view', '1 triệu view', '20 cặp sửa trước → sau (ví dụ minh hoạ)'),
+         hook=('CÂU MỞ ĐẦU\n100 VIEW', 'và câu 1 triệu view', '1 triệu view', '20 cặp sửa trước → sau (ví dụ minh hoạ)'),
          outro=('Đừng chào.', 'Nói ngay điều người xem cần', 'Nói ngay'), emojis=('megaphone', 'memo'),
          pages=[(f'{int(a):02d}–{int(b):02d}', g, [(n, ITEMS[n]) for n in range(int(a), int(b) + 1)]) for g, a, b in GROUPS],
          draw_row=draw_row))

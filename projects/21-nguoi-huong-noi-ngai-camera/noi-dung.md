@@ -9,8 +9,8 @@ Mặt nhìn camera, hơi ngượng rồi cười. Quay dọc, ~10 s, mặt ở n
 ### 0–3s HOOK (hiện đủ ngay từ khung 0)
 
 - Dòng lớn (IN HOA): NGẠI CAMERA?
-- Dòng nhấn (nghiêng): quay 1 lần là xong   ← chữ được tô nổi: "1 lần"
-- Dòng phụ: 15 mẹo cho người hướng nội
+- Dòng nhấn (nghiêng, 2 dòng to): 15 mẹo cho / người hướng nội   ← chữ được tô nổi: "15 mẹo"
+- (Bỏ dòng "quay 1 lần là xong" — chủ kênh 12/11)
 
 ### 3–6s THÂN — Trang 1: Trước khi quay (01–05)
 

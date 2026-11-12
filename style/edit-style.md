@@ -36,6 +36,7 @@ Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy
 - Chữ không đè lên mặt; chừa ~350 px đáy cho UI TikTok/Reels.
 
 ## Quy tắc bắt buộc (chủ kênh đã chốt)
+- **Chữ hook phải to, đọc ngay được:** không dùng chữ cắt dán ransom cho dòng hook (khó đọc); dòng lớn ngắt 2 dòng nếu dài; dòng nào cần nhấn thì phải TO NHẤT, không để thành dòng phụ nhỏ. (12/11)
 - **Hook hiện đủ ngay từ khung đầu tiên (giây 0)** — không bật / trượt / mờ dần vào; chỉ được "thở" nhẹ tại chỗ. (12/11)
 - Danh sách / bước hiện dần và **ở lại**, không biến mất từng dòng.
 - **Không** thêm thanh đen hay hiệu ứng che chữ khi không được yêu cầu.

@@ -24,11 +24,11 @@ def draw_row(R, dr, it, j, rowh, clip, c, ctx):
 
 run(dict(num=21, src=sys.argv[1], out=sys.argv[2], preview=len(sys.argv) > 3, dur=14.5, page_dur=3.0, rstep=0.12,
          rowh=(118, 140),
-         theme=dict(hookA=WHITE_, hookA_fg=NAVY, hookA_tape=LEMON, hookB=NAVY, hookB_fg=WHITE_, hookB_hl=(140, 110, 200), sub=LEMON, sub_fg=NAVY,
+         theme=dict(hookA=WHITE_, hookA_fg=NAVY, hookA_tape=LEMON, hookB=NAVY, hookB_fg=WHITE_, hookB_hl=(150, 120, 215), sub=LEMON, sub_fg=NAVY,
                     label_bg=NAVY, label_fg=LEMON, label_sh=(150, 130, 200), title_fg=NAVY, tape=[LEMON, WHITE_, LEMON],
                     out=LAV2, out_fg=NAVY, out_hl=LEMON, doodle=NAVY, dots=NAVY),
          styles=[(LAV, 'plain'), (WHITE_, 'lined'), (LAV, 'plain')],
-         hook=('NGẠI CAMERA?', 'quay 1 lần là xong', '1 lần', '15 mẹo cho người hướng nội'),
+         hook=('NGẠI CAMERA?', '15 mẹo cho\nngười hướng nội', '15 mẹo', None), hook_y=[1430, 1760, 1990], big_size=140, acc_size=150,
          outro=('Không cần tự tin.', 'Chỉ cần quay xong.', 'quay xong'), emojis=('megaphone', 'bookmark'),
          pages=[(f'{int(a):02d}–{int(b):02d}', g, [(n, ITEMS[n]) for n in range(int(a), int(b) + 1)]) for g, a, b in GROUPS],
          prepare=prepare, draw_row=draw_row))
