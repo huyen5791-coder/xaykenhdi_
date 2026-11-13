@@ -11,7 +11,7 @@ y-tuong ─> [chủ kênh duyệt ý] ─> noi-dung-video: viết script TẤT C
 Drive (chủ kênh chốt 13/11: **chỉ up clip vào 1 thư mục chung**, không chia nhiều thư mục):
 ```
 xaykenhdi_ - Video/
-  0-CLIP-NGUON/            ← chủ kênh up TẤT CẢ clip quay dọc vào đây (id 1KhNs9QuilvKp8bR-_R-FQbmN7v83sbs9, đã bật xem bằng link)
+  0-CLIP-NGUON/            ← chủ kênh up TẤT CẢ clip quay dọc vào đây (id 1KhNs9QuilvKp8bR-_R-FQbmN7v83sbs9 — CẦN bật "Ai có link đều xem" thì agent mới tải được clip > 10 MB)
   NN-<slug>/
     Kich ban NN - <tên>   (Google Doc: script để chủ kênh duyệt / bình luận)
     2-xuat/                (video đã dựng; file > 3 MB agent gửi qua chat, chủ kênh tự kéo vào)
