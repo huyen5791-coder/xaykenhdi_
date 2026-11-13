@@ -53,6 +53,17 @@ def hl_line(d, cx, y, text, hl, font, fg, hl_bg):
         d.rounded_rectangle([x0 - 12, y - asc * 0.80, x0 + w_ + 12, y + asc * 0.18], 16, fill=hl_bg + (255,))
     d.text((cx, y), text, font=font, fill=fg, anchor='ms')
 
+def parse_pages(md, kind='trang'):
+    """Trả về [(nhãn, tiêu đề, [(số, chữ)])] từ noi-dung.md."""
+    import re as _re
+    if kind == 'tuan':
+        W_ = _re.findall(r'Tờ \d+: Tuần (\d+) · ([^(\n]+?) \(ngày (\d+)–(\d+)\)', md)
+        D_ = {int(n): t.strip() for n, t in _re.findall(r'(?m)^- Ngày (\d+) → (.+)$', md)}
+        return [(f'TUẦN {w}', ti, [(n, D_[n]) for n in range(int(a), int(b) + 1)]) for w, ti, a, b in W_]
+    G_ = _re.findall(r'Trang \d+: ([^(\n]+?) \((\d+)–(\d+)\)', md)
+    I_ = {int(n): t.strip() for n, t in _re.findall(r'(?m)^- \*\*(\d+)\.\*\* (.+)$', md)}
+    return [(f'{int(a):02d}–{int(b):02d}', g, [(n, I_[n]) for n in range(int(a), int(b) + 1)]) for g, a, b in G_]
+
 def has_audio(path):
     r = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'a', '-show_entries', 'stream=index', '-of', 'csv=p=0', path], capture_output=True, text=True)
     return bool(r.stdout.strip())
@@ -90,8 +101,8 @@ def run(cfg):
     LA.alpha_composite(tape(150, 46, num * 100 + 2, color=T['hookA_tape'], alpha=215), (ma - 30, ma - 22))
     LA = shadowed(rot(LA, -1.5), (7, 12), 10, 0.38)
     BL = acc.split('\n')
-    fB = fit('tbi', cfg.get('acc_size', 118), max(BL, key=len), 1100, 60)
-    LBW = int(min(1220, max(700, max(fB.getlength(x) for x in BL) + 140)))
+    fB = fit('tbi', cfg.get('acc_size', 118), max(BL, key=len), 1040, 60)
+    LBW = int(min(1180, max(700, max(fB.getlength(x) for x in BL) + 140)))
     LB, mb = paper_sheet(LBW, int(fB.size * (0.45 + 1.08 * len(BL))), T['hookB'], num * 100 + 3, amp=11, cells=40)
     for k, ln in enumerate(BL):
         hl_line(ImageDraw.Draw(LB), mb + LBW / 2, mb + fB.size * (1.08 + 1.05 * k), ln, acc_hl if acc_hl in ln else None, fB, T['hookB_fg'], T['hookB_hl'])
@@ -103,7 +114,7 @@ def run(cfg):
     PW = 1340 if CLIP else 1300; HEAD = 118 if CLIP else 150
     ROWH = cfg.get('rowh', (82, 112))[0 if CLIP else 1]
     STYLE = cfg.get('styles', [(CREAM, 'grid'), (PINK, 'plain'), (LIME, 'grid'), (YELLOW, 'plain'), (CREAM, 'lined')])
-    if CLIP: STYLE = [(c, 'plain') for c, _ in STYLE]
+    if CLIP and not T.get('keep_kind'): STYLE = [(c, 'plain') for c, _ in STYLE]
     TAPE = T['tape']
     fHead = F('ExtraBold', 40)
     PAGES = []
@@ -120,7 +131,7 @@ def run(cfg):
             for k_, wd in ((0, 5), (12, 2)): d.line([(m + 40, m + HEAD - 10 + k_), (m + PW - 40, m + HEAD - 10 + k_)], fill=T['header_rule'] + (255,), width=wd)
         fT = fit('ExtraBold', 40, title.upper(), PW - 380, 26); x = x0 + 262
         for ch in title.upper(): d.text((x, m + 88 + hy), ch, font=fT, fill=T['title_fg'], anchor='ls'); x += fT.getlength(ch) + 3
-        S.alpha_composite(tape(180, 52, num * 100 + 50 + pi, color=TAPE[pi % 5], alpha=215), ((m + PW - 170) if pi % 2 == 0 else (m - 40), m - 26))
+        S.alpha_composite(tape(180, 52, num * 100 + 50 + pi, color=TAPE[pi % len(TAPE)], alpha=215), ((m + PW - 170) if pi % 2 == 0 else (m - 40), m - 26))
         ctx = cfg['prepare'](items, CLIP, PW) if 'prepare' in cfg else None
         rows = []
         for j, it in enumerate(items):
@@ -164,9 +175,9 @@ def run(cfg):
             out = ease_in_cubic(prog(t, T_HOOK_OUT, 0.3)); ha = 1 - out; up = -260 * out
             br = 1 + 0.015 * math.sin(t * 3.2)
             paste(cv, LA, 720, HOOK_Y[0] + up, br, 0, ha)
-            paste(cv, LB, 760, HOOK_Y[1] + up, 1 + 0.02 * math.sin(t * 3.2 + 1), 0, ha)
+            paste(cv, LB, 720, HOOK_Y[1] + up, 1 + 0.02 * math.sin(t * 3.2 + 1), 0, ha)
             paste(cv, E_HOOK, 1250, HOOK_Y[0] - 250 + up + 8 * math.sin(t * 4), 1, 6 * math.sin(t * 3), ha)
-            paste(cv, sf('pencil', t, 0.5), 130, HOOK_Y[1] + 110 + up, 0.9, 0, ha)
+            paste(cv, sf('pencil', t, 0.5), 150, HOOK_Y[0] - LA.height / 2 - 40 + up, 0.75, 0, ha)
             if SUB is not None:
                 paste(cv, SUB, 720, HOOK_Y[2] - up * 0.8, 1, 0, ha)
                 paste(cv, sf('sparkle', t, 0.45), 1260, HOOK_Y[2] - 90, 0.8 * ha, 0, 1)
@@ -200,10 +211,11 @@ def run(cfg):
         return cv
 
     CF = {}
+    CLIPDUR = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', SRC], capture_output=True, text=True).stdout or 99) if CLIP else 99
     def with_bg(t):
         if BG is not None: im = BG.copy()
         else:
-            k = round(min(t, 11.5), 2)
+            k = round(min(t, CLIPDUR - 0.25), 2)
             if k not in CF:
                 raw = subprocess.run(['ffmpeg', '-v', 'error', '-ss', str(k), '-i', SRC, '-frames:v', '1', '-vf', 'scale=1440:2560', '-f', 'rawvideo', '-pix_fmt', 'rgba', '-'], capture_output=True).stdout
                 CF[k] = Image.frombytes('RGBA', (W, H), raw)

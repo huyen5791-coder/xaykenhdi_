@@ -8,15 +8,17 @@ Nói chuyện với chủ kênh bằng **tiếng Việt**, ngắn gọn.
 y-tuong ─> [chủ kênh duyệt ý] ─> noi-dung-video: viết script TẤT CẢ ý đã duyệt + tạo thư mục Drive
         ─> [chủ kênh duyệt script + up clip nguồn lên Drive] ─> dung-video: dựng HÀNG LOẠT ─> mp4 lên Drive
 ```
-Thư mục Drive (tạo bằng công cụ Google Drive, mỗi video 1 thư mục):
+Drive (chủ kênh chốt 13/11: **chỉ up clip vào 1 thư mục chung**, không chia nhiều thư mục):
 ```
 xaykenhdi_ - Video/
+  0-CLIP-NGUON/            ← chủ kênh up TẤT CẢ clip quay dọc vào đây (id 1KhNs9QuilvKp8bR-_R-FQbmN7v83sbs9, đã bật xem bằng link)
   NN-<slug>/
     Kich ban NN - <tên>   (Google Doc: script để chủ kênh duyệt / bình luận)
-    1-nguon/               (chủ kênh up clip quay dọc vào đây)
     2-xuat/                (video đã dựng; file > 3 MB agent gửi qua chat, chủ kênh tự kéo vào)
 ```
-Ghi link thư mục vào `BOARD.md` mục "Đang làm". Chỉ dựng video có script đã duyệt **và** đã có clip trong `1-nguon`.
+- Ghép clip ↔ video: clip chưa dùng trong `0-CLIP-NGUON`, xếp theo **tên** (1, 2, 3… hoặc tên có số video) → gán lần lượt cho các video đang chờ dựng theo số NN tăng dần. Ghi clip đã dùng vào `BOARD.md` để không dùng lại.
+- Thư mục video mới **không tạo `1-nguon`** nữa (16–27 có `1-nguon` cũ, giữ nguyên).
+- Ghi link thư mục vào `BOARD.md` mục "Đang làm". Chỉ dựng video có script đã duyệt.
 
 | Agent (skill) | Việc | Đầu ra |
 |---|---|---|

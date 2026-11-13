@@ -24,7 +24,7 @@ Không dùng cùng 1 bộ màu cho 2 video liền nhau. Giữ cố định: hand
 | Xanh dương cổ điển | thẻ thư viện kẻ ô xanh | xanh than | vàng, mộc đỏ | dấu mộc "ĐÃ SỬA" | 25 |
 | Băng cảnh báo | vàng + sọc đen | đen | đỏ | ô đánh dấu, dấu X | 26 |
 | Hồng đất | hồng đất `#C97B6B`, xanh lá đậm `#2F4A3A` | kem | vàng | ô tìm kiếm cắt giấy, kính lúp | 27 |
-Hết bảng thì quay vòng nhưng đổi chất liệu.
+Hết bảng thì quay vòng nhưng đổi chất liệu. Mỗi bộ màu đã có mã sẵn trong `projects/NN-*/compose.py` (19–27) để tái dùng.
 
 ## Chất liệu (đổi giữa các video)
 Giấy xé viền sợi trắng · giấy nhàu · ô li · kẻ dòng · giấy báo · vở lò xo · lịch xé · hoá đơn in nhiệt · bảng ghim · băng dính washi (có chữ) · sticker 3D bóng (`r3d`) · chữ cắt dán ransom · doodle vẽ tay trên giấy báo · Fluent Emoji · **bản đồ 3D isometric** (nền thành phố three.js, chữ vẫn trên giấy — xem `style/map-3d.md`).

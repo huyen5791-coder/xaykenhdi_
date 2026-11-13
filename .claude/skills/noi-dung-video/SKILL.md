@@ -45,7 +45,7 @@ Y–Zs CHỐT
 
 ## Khi chủ kênh duyệt một đợt ý tưởng
 1. Viết script cho **tất cả** ý đã duyệt (mỗi ý 1 `projects/NN-<slug>/noi-dung.md`, NN tiếp số cuối trong `BOARD.md`).
-2. Tạo trên Google Drive: thư mục gốc `xaykenhdi_ - Video` (tìm trước, chưa có mới tạo) → `NN-<slug>/` gồm Google Doc `Kich ban NN - <tên>` (dán script), thư mục `1-nguon`, `2-xuat`. Bật chia sẻ link (người xem) cho `1-nguon` để tải được clip lớn. Doc tạo bằng tệp markdown: tiêu đề mốc giây là `###`, danh sách đánh số viết `- **N.** ...` (Doc tự đánh lại số nếu dùng `N.`).
+2. Tạo trên Google Drive: thư mục gốc `xaykenhdi_ - Video` (tìm trước, chưa có mới tạo) → `NN-<slug>/` gồm Google Doc `Kich ban NN - <tên>` (dán script) và thư mục `2-xuat`. KHÔNG tạo `1-nguon` — chủ kênh up mọi clip vào `0-CLIP-NGUON` chung. Doc tạo bằng tệp markdown: tiêu đề mốc giây là `###`, danh sách đánh số viết `- **N.** ...` (Doc tự đánh lại số nếu dùng `N.`).
 3. Ghi bảng vào `BOARD.md` mục "Đang làm": # · tên · link thư mục · trạng thái (chờ duyệt script / chờ clip / sẵn sàng dựng / đã dựng).
 4. Gửi chủ kênh 1 danh sách link. Chủ kênh sửa / bình luận trực tiếp trên Doc; đọc lại Doc trước khi dựng.
 
