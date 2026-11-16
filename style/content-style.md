@@ -51,18 +51,15 @@ Ba trụ chủ đề:
 ## Caption đăng
 2–3 câu: nhắc lại lợi ích + CTA (nếu có) + 3–5 hashtag (#xaykenh #tiktoktips #kenhgiaumat …).
 
-## Caption 2 bản (chủ kênh chốt 16/11 — mẫu: https://claude.ai/artifact/QPK1dVskYcHhrWTPNefmki)
-Lưu ở `captions/` + 1 Google Doc trên Drive. Không icon. Xưng "tui", gọi "các sốp".
-**Bản 1 · Kể chuyện (FB)** — 5 đoạn, không danh sách:
-1. Cảnh quen thuộc người xem từng gặp (tình huống chung, KHÔNG bịa chuyện riêng của tui; có chuyện thật thì chủ kênh thay vào).
-2. Video này có gì (tóm ý, nhắc số mục / nhóm).
-3. 1 mẹo KHÔNG có trong video ("Mẹo nhỏ không kịp ghi trong video: …").
-4. 1 câu hành động ngắn (lưu lại / thử ngay / tự chấm).
-5. CTA + 5 hashtag.
-**Bản 2 · Kiến thức (IG)** — như 1 trang phụ của video:
-1. 1 câu đi thẳng vào vấn đề + "Ngoài … trong video, nên biết thêm:".
-2. Danh sách **4 ý đánh số 1–4**, kiến thức mới, không lặp lại video; điều chưa có nguồn chính thức ghi rõ.
-3. 1 câu chốt → CTA → 5 hashtag.
+## Caption (chủ kênh chốt 16/11) — 1 caption dùng chung, kể chuyện + kiến thức
+Lưu ở `captions/` + 1 Google Doc trên Drive. Không icon. Xưng "tui", gọi "các sốp". Mỗi đoạn xuống dòng riêng.
+1. **Kể chuyện:** cảnh quen thuộc người xem từng gặp (tình huống chung, KHÔNG bịa chuyện riêng của tui; có chuyện thật thì chủ kênh thay vào).
+2. **Video có gì:** tóm ý, nhắc số mục / nhóm.
+3. **1 mẹo ngoài video:** "Một mẹo nhỏ…", "Thêm 1 mẹo…".
+4. **Nhận định + "các sốp lưu ý thêm:"** rồi **4 ý đánh số 1–4**, kiến thức mới không lặp lại video; điều chưa có nguồn chính thức ghi rõ.
+5. **1 câu hành động** (lưu lại / gửi cho ai / thử ngay).
+6. **CTA**, rồi 5 hashtag.
+Mẫu: `captions/caption-16-27.md`, doc gốc https://claude.ai/artifact/QPK1dVskYcHhrWTPNefmki (bài 3).
 
 ## Carousel
 _Chưa có dữ liệu từ đoạn chat carousel._ Khi chủ kênh gửi tóm tắt hoặc link artifact, bổ sung mục này (số slide, bố cục, font, cách đặt hook slide 1, slide CTA).
