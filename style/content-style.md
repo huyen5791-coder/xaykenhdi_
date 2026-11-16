@@ -30,7 +30,7 @@ Ba trụ chủ đề:
 - **Câu hỏi đời thường:** "Đăng bao nhiêu bài là đủ?", "Giờ đăng tốt nhất?" → trả lời ngắn có lý do.
 
 ## Giọng văn
-- Tiếng Việt đời thường, ngắn, như nói với bạn. Chủ kênh tự xưng **"sốp"** khi cần.
+- Tiếng Việt đời thường, ngắn, như nói với bạn. **Xưng hô (chốt 16/11): "tui" = chủ kênh, "các sốp" = người xem.**
 - Hook đánh vào nỗi đau hoặc ngộ nhận: "Bài flop?", "Chạy quảng cáo mà lỗ?", "Chưa biết làm kênh gì mà không lộ mặt?".
 - Mỗi mục phải **làm được ngay** (cụ thể, có ví dụ), không nói chung chung.
 - Không bịa số liệu, không hứa viral. Con số nào cũng phải có cơ sở hoặc là ví dụ ghi rõ "ví dụ".
@@ -44,6 +44,7 @@ Ba trụ chủ đề:
 - Không lan man, không ẩn ý, không kể chuyện vòng vo.
 
 ## CTA
+- **CTA chính thức (chốt 16/11):** *Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.* Dùng cho caption; video dùng bản ngắn khi chủ kênh muốn.
 - Mẫu đã dùng: *Follow và cmt "PLAN" nhận bộ tài liệu hướng dẫn xây kênh nhé*.
 - **Không tự thêm CTA** khi chủ kênh không đưa. Khi viết nội dung mới: đề xuất 1 dòng CTA và ghi rõ "(đề xuất, chờ duyệt)" + từ khoá cần chủ kênh có tài liệu thật để gửi.
 
@@ -51,9 +52,10 @@ Ba trụ chủ đề:
 2–3 câu: nhắc lại lợi ích + CTA (nếu có) + 3–5 hashtag (#xaykenh #tiktoktips #kenhgiaumat …).
 
 ## Caption 2 nền tảng (chủ kênh chốt 16/11)
-Mỗi video viết 2 bản, lưu ở `captions/`:
-- **FB — thân thiện, kể chuyện:** mở bằng tình huống người xem từng gặp hoặc chuyện của sốp (**[xác nhận]** nếu là trải nghiệm riêng), tóm ý video, kết bằng 1 câu hỏi mời bình luận. 4–6 câu ngắn + 3–4 hashtag.
-- **IG — bổ sung kiến thức:** giải thích VÌ SAO / CÁCH DÙNG điều trong video (gạch đầu dòng, biểu tượng nhỏ), thêm 1 mẹo hoặc bài tập; điều chưa có nguồn chính thức ghi rõ là kinh nghiệm. 4–5 hashtag.
+Mỗi video viết 2 bản, lưu ở `captions/` + 1 Google Doc trên Drive:
+- **FB — thân thiện, kể chuyện:** mở bằng tình huống người xem từng gặp hoặc chuyện của tui (**[xác nhận]** nếu là trải nghiệm riêng), tóm ý video, kết bằng CTA. 3–4 hashtag.
+- **IG — bổ sung kiến thức:** giải thích VÌ SAO / CÁCH DÙNG điều trong video, thêm 1 mẹo hoặc bài tập; điều chưa có nguồn chính thức ghi rõ là kinh nghiệm. CTA + 4–5 hashtag.
+- **Trình bày:** mỗi ý 1 đoạn, cách nhau 1 dòng trống. Liệt kê bằng số **1. 2. 3.**, không dùng icon tràn lan (tối đa 0–1 icon). Xưng "tui", gọi "các sốp".
 
 ## Carousel
 _Chưa có dữ liệu từ đoạn chat carousel._ Khi chủ kênh gửi tóm tắt hoặc link artifact, bổ sung mục này (số slide, bố cục, font, cách đặt hook slide 1, slide CTA).
