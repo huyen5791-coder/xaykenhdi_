@@ -50,5 +50,10 @@ Ba trụ chủ đề:
 ## Caption đăng
 2–3 câu: nhắc lại lợi ích + CTA (nếu có) + 3–5 hashtag (#xaykenh #tiktoktips #kenhgiaumat …).
 
+## Caption 2 nền tảng (chủ kênh chốt 16/11)
+Mỗi video viết 2 bản, lưu ở `captions/`:
+- **FB — thân thiện, kể chuyện:** mở bằng tình huống người xem từng gặp hoặc chuyện của sốp (**[xác nhận]** nếu là trải nghiệm riêng), tóm ý video, kết bằng 1 câu hỏi mời bình luận. 4–6 câu ngắn + 3–4 hashtag.
+- **IG — bổ sung kiến thức:** giải thích VÌ SAO / CÁCH DÙNG điều trong video (gạch đầu dòng, biểu tượng nhỏ), thêm 1 mẹo hoặc bài tập; điều chưa có nguồn chính thức ghi rõ là kinh nghiệm. 4–5 hashtag.
+
 ## Carousel
 _Chưa có dữ liệu từ đoạn chat carousel._ Khi chủ kênh gửi tóm tắt hoặc link artifact, bổ sung mục này (số slide, bố cục, font, cách đặt hook slide 1, slide CTA).
