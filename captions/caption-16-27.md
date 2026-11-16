@@ -1,94 +1,74 @@
 # Caption video 16–27 · @xaykenhdi_
 
-Mỗi video 2 bản: **FB** thân thiện, kể chuyện · **IG** bổ sung, giải thích rõ kiến thức trong video.
+Theo khuôn caption mẫu của chủ kênh (2 bản):
 
-Xưng **tui**, gọi người xem là **các sốp**. CTA: bình luận "AI" hoặc "FILE" nhận tài liệu miễn phí.
+**Bản 1 · Kể chuyện (FB):** mở bằng một cảnh quen thuộc, là tình huống chung, không phải chuyện riêng của tui. Kể tự nhiên, rồi thêm 1 mẹo không có trong video. Có chuyện thật thì thay vào sẽ hay hơn.
 
-Câu có **[xác nhận]** là trải nghiệm của chủ kênh: đúng thì xoá dấu, không đúng thì sửa trước khi đăng.
+**Bản 2 · Kiến thức (IG):** 1 câu đi thẳng vào vấn đề, rồi 4 ý kiến thức mới không lặp lại video, cuối cùng là lời mời comment.
 
 ---
 
 ## 16 · 50 câu mở đầu copy dùng ngay
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Các sốp có bao giờ quay xong cả video rồi mà vẫn kẹt ở đúng câu đầu tiên không?
+Chắc các sốp cũng từng như vầy: quay xong cả video, dựng xong xuôi, đến lúc gõ chữ mở đầu thì ngồi nhìn màn hình cả buổi mà không ra được câu nào.
 
-Câu mở đầu là phần khó nhất, vì người xem quyết định ở lại hay lướt đi chỉ trong vài giây.
+Câu mở đầu khó vì nó phải làm một việc rất lớn trong vài giây: giữ người xem lại. Nên tui gom sẵn 50 câu chia 5 nhóm, chỗ nào cần thay thì để trống, các sốp chỉ việc điền tên ngách của mình vào.
 
-Nên tui gom sẵn 50 câu, chia 5 nhóm:
+Mẹo nhỏ không kịp ghi trong video: viết câu mở đầu xong thì đọc to lên 1 lần. Câu nào đọc vấp hoặc phải lấy hơi giữa chừng là còn dài, cắt bớt đến khi đọc một hơi là xong.
 
-1. Chạm nỗi đau
-2. Chỉ ra sai lầm
-3. Hứa kết quả cụ thể
-4. Nói ngược số đông
-5. Gọi đúng người xem
+Lưu bài lại, mỗi ngày mở ra chọn 1 câu.
 
-Các sốp chỉ cần điền tên ngách của mình vào chỗ trống là có câu dùng ngay. Lưu lại, mỗi ngày thử 1 câu nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#xaykenh #caumodau #hookvideo #lamcontent #kenhgiaumat
 
-#xaykenh #caumodau #lamcontent #kenhgiaumat
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+50 câu mở đầu nằm trong video, chia 5 nhóm. Dưới đây là 4 điều giúp câu nào dùng cũng hiệu quả hơn:
 
-50 câu mở đầu điền chỗ trống, và cách dùng cho đúng.
+1. Chữ trên màn hình và lời nói ở giây đầu nên là cùng một câu. Người xem bật hay tắt tiếng đều hiểu.
+2. Câu càng ngắn càng tốt, đọc kịp trong 2 giây đầu. Dài quá thì tách phần sau xuống dòng phụ.
+3. Câu mở đầu hứa gì thì video phải trả đúng cái đó. Hứa một đằng nói một nẻo, người xem bỏ ngang và lần sau lướt qua kênh.
+4. Dùng lại câu mở đầu làm chữ trên ảnh bìa, để lưới video trên trang cũng nói cùng một ý.
 
-Vì sao mẫu điền chỗ trống hiệu quả? Vì nó giữ phần khung đã quen tai người xem (nỗi đau, con số, lời hứa), các sốp chỉ thay phần riêng của ngách mình.
+Lưu lại, mỗi lần quay mở ra chọn 1 câu.
 
-Chọn nhóm theo mục tiêu video:
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-1. Chạm nỗi đau: video giải quyết 1 vấn đề cụ thể
-2. Chỉ ra sai lầm: video sửa thói quen sai
-3. Hứa kết quả: video hướng dẫn từng bước
-4. Nói ngược số đông: video quan điểm
-5. Gọi đúng người: video cho 1 nhóm người xem rõ ràng
-
-Cách thử: cùng 1 nội dung, quay 2 bản với 2 câu mở đầu khác nhóm, đăng cách nhau vài ngày, so xem bản nào giữ người xem ở lại sau 3 giây đầu lâu hơn.
-
-Lưu ý: con số trong mẫu (7 ngày, 100 nghìn…) phải đúng với nội dung của các sốp, đừng hứa quá.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#caumodau #xaykenh #contentcreator #vietcontent #meolamcontent
+#xaykenh #caumodau #hookvideo #meolamcontent #kenhgiaumat
 
 ---
 
 ## 17 · 50 phông chữ Việt hoá trong canva
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Lần đầu làm ảnh bìa, tui chọn một phông nhìn rất xinh. Đến lúc gõ tiếng Việt thì dấu nhảy lung tung, chữ "ữ" thành ô vuông. [xác nhận]
+Làm ảnh bìa xong thấy đẹp lắm, đăng lên mới phát hiện chữ "ữ" thành ô vuông, dấu hỏi nằm lệch sang chữ bên cạnh. Sửa lại mất thêm nửa tiếng.
 
-Từ đó tui chỉ dùng phông đã thử kỹ với tiếng Việt. Video này là 50 phông như vậy, chia 5 kiểu:
+Nhiều phông nước ngoài rất đẹp nhưng không đủ dấu tiếng Việt. Tui lọc sẵn 50 phông đủ dấu, có trong canva, chia 5 kiểu từ sang trọng, hiện đại đến dễ thương, viết tay và chữ tiêu đề.
 
-1. Có chân: sang, tin cậy
-2. Không chân: gọn, hiện đại
-3. Chữ tròn: thân thiện
-4. Viết tay: cá nhân
-5. Tiêu đề: to, nổi bật
+Thêm 1 điều video không kịp nói: chữ trên video điện thoại nên chọn độ đậm từ Bold trở lên. Nét mảnh nhìn đẹp trên máy tính, nhưng lên điện thoại khi video đang chạy thì gần như không đọc kịp.
 
-Gõ đúng tên vào canva là tìm thấy. Lưu lại để lần sau làm bìa không phải thử từng phông nữa nha các sốp.
+Lưu lại để lần sau làm bìa không phải thử từng phông.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-#canva #phongchu #fontviethoa #lamcontent
+#canva #phongchu #fontviethoa #thietke #xaykenh
 
-### Instagram
+### Bản 2 · Kiến thức (IG)
 
-50 phông chữ Việt hoá: chọn sao cho hợp kiểu kênh của các sốp.
+50 phông trong video đều đủ dấu tiếng Việt. Khi dùng cho video ngắn, các sốp nhớ thêm 4 điều:
 
-1. Có chân (Playfair Display, Lora…): cảm giác tin cậy, sang. Hợp kênh kiến thức, tài chính, sách.
-2. Không chân (Be Vietnam Pro, Montserrat…): gọn, dễ đọc trên điện thoại. Hợp chữ nội dung dài.
-3. Chữ tròn (Quicksand, Nunito…): thân thiện, mềm. Hợp kênh mẹ và bé, đồ ăn, đời sống.
-4. Viết tay (Dancing Script, Pacifico…): chỉ dùng cho 1–2 chữ nhấn, đừng dùng cho đoạn dài.
-5. Tiêu đề (Anton, Bungee…): to, đậm. Dùng cho câu mở đầu trên ảnh bìa.
+1. Chữ có viền hoặc nền mờ phía sau thì đọc được trên mọi nền video, sáng hay tối.
+2. Phông viết tay chỉ dùng cho 1 đến 3 chữ nhấn. Cả câu dài bằng chữ viết tay rất khó đọc khi lướt nhanh.
+3. Thử xem video trên điện thoại ở độ sáng thấp. Vẫn đọc được chữ thì cỡ chữ đã đạt.
+4. Phông có sẵn trong canva dùng trong thiết kế canva được. Phông tải ở trang lạ về thì xem giấy phép trước khi dùng cho bài bán hàng.
 
-Cách kiểm tra lỗi dấu: gõ thử "ỗ ữ ặ ỹ ậ". Nếu dấu chồng lên nhau hoặc thành ô vuông thì bỏ phông đó.
+Mỗi thiết kế tối đa 2 phông là đủ.
 
-Quy tắc nhỏ: mỗi thiết kế tối đa 2 phông.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
 #canva #phongchu #fontviethoa #thietke #xaykenh
 
@@ -96,37 +76,32 @@ Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các
 
 ## 18 · Người hướng nội xây kênh: 30 ngày, 30 video
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Gửi các sốp hướng nội: ngại nói, ngại lên hình, nhưng vẫn muốn có một kênh của riêng mình.
+Có những người nghĩ ra cả chục ý tưởng video, nhưng cứ cầm máy lên là ngại: ngại giọng mình, ngại người quen xem, ngại bị nhận xét. Rồi ý tưởng nằm yên trong ghi chú điện thoại.
 
-Không cần nói giỏi mới làm được content. Chữ trên màn hình, đôi tay, góc bàn làm việc… đều kể chuyện thay các sốp được.
+Nếu các sốp là người như vậy thì lịch này dành cho các sốp: 30 ngày, mỗi ngày 1 dạng video chỉ cần chữ, tay và màn hình, không phải nói câu nào. Tuần đầu giới thiệu bản thân, tuần 2 chia sẻ kiến thức, tuần 3 kết nối người xem, tuần 4 giữ nhịp.
 
-Tui làm sẵn lịch 30 ngày, mỗi ngày 1 dạng video không cần nói câu nào:
+Thêm 1 mẹo cho người ngại người quen xem: lúc mới làm, các sốp có thể lập tài khoản mới, tách khỏi tài khoản cá nhân. Khi đủ tự tin rồi chia sẻ cho bạn bè cũng chưa muộn.
 
-1. Tuần 1: giới thiệu bản thân
-2. Tuần 2: chia sẻ kiến thức
-3. Tuần 3: kết nối người xem
-4. Tuần 4: giữ nhịp đăng đều
+Lưu lại và bắt đầu từ ngày 1.
 
-Không cần nói hay, chỉ cần đăng đều. Lưu lại và bắt đầu từ ngày 1 nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#nguoihuongnoi #xaykenh #kenhgiaumat #lichdangbai #lamcontent
 
-#nguoihuongnoi #xaykenh #kenhgiaumat #lamcontent
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Không nói vẫn làm được video cuốn, nếu chữ và hình làm thay phần lời. Ngoài lịch 30 ngày trong video, nên biết thêm:
 
-Lịch 30 ngày cho người hướng nội: vì sao lại chia như vậy?
+1. Chữ hiện theo nhịp: mỗi dòng hiện cách nhau chưa tới nửa giây và ở lại trên màn hình. Người xem đọc kịp mà không thấy chậm.
+2. Âm thanh vẫn cần: tiếng gõ phím, tiếng lật giấy, nhạc nền nhẹ giúp video không bị trống.
+3. Quay hàng loạt: 1 buổi quay đủ cảnh tay và màn hình cho cả tuần, ngày đăng chỉ cần ghép chữ.
+4. Ngày 19 và 26 dùng số liệu thật của kênh, kể cả khi còn ít. Người xem thích theo dõi hành trình thật hơn con số đẹp.
 
-1. Tuần 1, giới thiệu: người xem cần biết "bạn là ai, kênh nói gì" trước khi theo dõi. Video bàn làm việc, mục tiêu kênh, ứng dụng hay dùng giúp họ hình dung về các sốp mà không cần lộ mặt.
-2. Tuần 2, cho đi kiến thức: video mẹo, hướng dẫn, so sánh là dạng dễ được lưu lại nhất. Đây là tuần tạo lý do để người ta quay lại.
-3. Tuần 3, kết nối: trả lời bình luận, hỏi ý kiến, hậu trường. Biến người xem thành người quen.
-4. Tuần 4, giữ nhịp: chuỗi video có tập 1, tập 2 giúp người xem chờ bài tiếp theo.
+Không cần nói hay, chỉ cần đăng đều.
 
-Mẹo cho người hướng nội: quay hàng loạt 1 buổi cho cả tuần, dùng chữ trên màn hình thay lời nói.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
 #nguoihuongnoi #xaykenh #kenhgiaumat #lichdangbai #contentcreator
 
@@ -134,76 +109,65 @@ Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các
 
 ## 19 · Câu mở đầu 100 view và 1 triệu view
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Hồi mới làm kênh, câu mở đầu nào của tui cũng là "Xin chào mọi người, hôm nay mình sẽ…". Và đúng là ít ai ở lại nghe hết. [xác nhận]
+Mở đầu video bằng "Xin chào mọi người, hôm nay mình sẽ chia sẻ…" nghe rất lịch sự. Nhưng trên điện thoại, chừng đó giây là đủ để người xem lướt sang video khác.
 
-Sau này tui mới hiểu: người xem không cần lời chào, họ cần biết ngay video này có gì cho họ.
+Tui làm 20 cặp câu trước – sau để các sốp thấy rõ: chỉ sửa vài chữ, câu mở đầu đã khác hẳn. 4 cách sửa là thêm con số, nói thẳng nỗi đau, gọi đúng người xem và bỏ chữ thừa. (100 view hay 1 triệu view chỉ là cách nói vui để so sánh thôi nha.)
 
-Video này là 20 cặp câu trước – sau, sửa theo 4 cách:
+Mẹo kiểm tra nhanh: chỉ xem 2 giây đầu video của mình rồi dừng lại. Nếu chưa biết video nói về gì thì câu mở đầu cần sửa.
 
-1. Thêm con số
-2. Nói thẳng nỗi đau
-3. Gọi đúng người xem
-4. Bỏ chữ thừa
+Thử sửa câu mở đầu video gần nhất, dán vào bình luận tui xem giúp.
 
-(100 view / 1 triệu view chỉ là cách nói vui để so sánh nha các sốp.)
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#caumodau #hookvideo #xaykenh #lamcontent #meotiktok
 
-#caumodau #xaykenh #lamcontent #meotiktok
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+20 cặp trước – sau nằm trong video. Để tự sửa câu mở đầu của mình, các sốp nhớ 4 điều:
 
-4 cách sửa câu mở đầu, giải thích từng cách:
+1. Bắt đầu bằng con số, nỗi đau hoặc người xem, không bắt đầu bằng "Hôm nay", "Mình", "Video này".
+2. Một câu mở đầu chỉ 1 lời hứa. Hứa 2 đến 3 thứ cùng lúc thì người xem không nhớ được cái nào.
+3. Con số cụ thể (7, 12, 50) thường dễ tin hơn những từ chung chung như "nhiều", "vài". Nhưng số phải đúng với nội dung video.
+4. Xem biểu đồ người xem ở lại trong phần số liệu của từng video. Đường tụt mạnh ngay 2 đến 3 giây đầu là câu mở đầu cần sửa.
 
-1. Thêm con số. "Mẹo quay video" thành "3 mẹo quay bằng điện thoại cũ". Con số cho người xem biết video có mấy ý và có điểm kết thúc rõ.
-2. Nói thẳng nỗi đau. Thay chủ đề chung chung bằng tình huống người xem đang gặp: "Khách hỏi giá rồi im luôn?". Người xem thấy mình trong câu đó sẽ dừng lại.
-3. Gọi đúng người. "Mẹ bỉm bán hàng tại nhà, nghe này". Càng cụ thể, người đúng càng thấy video dành cho họ.
-4. Bỏ chữ thừa. Lời chào, "trong video này mình sẽ…", "không biết mọi người biết chưa" làm mất những giây quý nhất.
+Sửa câu mở đầu trước, giữ nguyên phần còn lại để so sánh cho đúng.
 
-Bài tập: viết 1 câu mở đầu, sửa lần lượt theo 4 cách, chọn bản ngắn và rõ nhất.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#caumodau #xaykenh #contentcreator #vietcontent #meolamcontent
+#caumodau #hookvideo #xaykenh #contentcreator #meolamcontent
 
 ---
 
 ## 20 · 20 cặp phông chữ Việt hoá
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Có phông đẹp rồi mà ghép lại vẫn thấy "sai sai"? Tui từng bị vậy hoài. [xác nhận]
+Tìm được phông đẹp rồi, ghép thêm phông thứ hai, thứ ba… nhìn lại ảnh bìa thấy rối mà không biết sai ở đâu. Chuyện này rất hay gặp khi mới tự làm thiết kế.
 
-Bí quyết hoá ra rất đơn giản: tiêu đề một phông, nội dung một phông, và hai phông phải hợp nhau.
+Nguyên nhân thường là ghép hai phông quá giống nhau, hoặc dùng quá nhiều phông. Tui ghép sẵn 20 cặp phông Việt hoá cho tiêu đề và nội dung, chia 4 phong cách: sang trọng, hiện đại, dễ thương, mạnh mẽ. Chọn phong cách hợp kênh, copy cặp đó là dùng.
 
-Video này là 20 cặp phông Việt hoá ghép sẵn, chia 4 phong cách:
+Mẹo nhỏ không có trong video: chọn xong cặp phông thì dùng nó cho mọi bài ít nhất 1 tháng. Đổi phông liên tục làm trang nhìn như của nhiều người khác nhau.
 
-1. Sang trọng
-2. Hiện đại
-3. Dễ thương
-4. Mạnh mẽ
+Lưu lại để lần sau khỏi phải thử.
 
-Các sốp chọn phong cách hợp kênh mình, copy đúng cặp đó vào canva là xong.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#canva #phongchu #fontviethoa #thietke #xaykenh
 
-#canva #phongchu #fontviethoa #thietke
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Một cặp phông đẹp cần tương phản rõ: tiêu đề đậm, nội dung dễ đọc. Thêm 4 điều khi ghép phông:
 
-Cách ghép 2 phông chữ để thiết kế nhìn chuyên nghiệp:
+1. Hai phông nên khác nhau ít nhất 1 điểm rõ: có chân với không chân, đậm với mảnh, to với nhỏ.
+2. Tiêu đề to khoảng 2 đến 3 lần chữ nội dung để mắt biết đọc gì trước.
+3. Tối đa 2 phông cho 1 thiết kế. Cần nhấn thêm thì đổi độ đậm hoặc màu, đừng thêm phông thứ ba.
+4. Chữ nội dung trên video nên dùng độ đậm Medium trở lên, chữ quá mảnh dễ nhoè khi nền video chuyển động.
 
-1. Tương phản: tiêu đề đậm, nổi bật (Anton, Playfair Display…) đi với nội dung nhẹ, dễ đọc (Be Vietnam Pro, Inter…). Hai phông quá giống nhau sẽ nhìn như lỗi.
-2. Cặp an toàn nhất: một phông có chân + một phông không chân, ví dụ Playfair Display + Be Vietnam Pro.
-3. Phông viết tay chỉ làm tiêu đề ngắn, ghép với phông không chân đơn giản, ví dụ Pacifico + Quicksand.
-4. Giữ cố định 1 cặp cho cả kênh để người xem nhận ra bài của các sốp khi lướt qua.
-5. Tiêu đề nên to gấp khoảng 2–3 lần chữ nội dung để rõ thứ tự đọc.
+Cả 20 cặp trong video đều đủ dấu tiếng Việt.
 
-Cả 20 cặp đều đủ dấu tiếng Việt, các sốp chỉ cần kiểm tra phông có trong tài khoản canva của mình.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
 #canva #phongchu #fontviethoa #thietke #xaykenh
 
@@ -211,37 +175,32 @@ Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các
 
 ## 21 · Ngại camera? 15 mẹo quay 1 lần là xong
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Các sốp có từng bấm quay, nói được nửa câu thì xoá, quay lại, xoá tiếp, mất cả buổi chiều mà chưa xong video nào không?
+Bấm quay, nói được nửa câu thì vấp, xoá. Quay lại, lần này thấy mặt mình trên màn hình, lại xoá. Một buổi chiều trôi qua mà chưa có nổi 1 video. Nghe quen không các sốp?
 
-Ngại camera là chuyện rất bình thường, nhất là với người hướng nội. Tin vui là không cần đợi tự tin mới quay được.
+Ngại camera là rất bình thường, nhất là với người hướng nội, và không cần đợi tự tin mới quay được. Tui gom 15 mẹo nhỏ chia 3 giai đoạn: trước khi quay, lúc quay và sau khi quay. Cái nào làm được ngay thì làm trước.
 
-Tui gom 15 mẹo nhỏ chia 3 giai đoạn:
-
-1. Trước khi quay
-2. Lúc quay
-3. Sau khi quay
-
-Mẹo tui thích nhất: quay từng câu, sai câu nào chỉ quay lại câu đó thôi. [xác nhận]
+Thêm 1 mẹo không có trong video: dán một mẩu giấy nhỏ che phần màn hình đang hiện mặt mình, chỉ chừa ống kính. Không nhìn thấy mặt mình nữa thì đỡ để ý tóc tai, nói trôi hơn hẳn.
 
 Không cần tự tin. Chỉ cần quay xong.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-#nguoihuongnoi #ngaicamera #quayvideo #xaykenh
+#nguoihuongnoi #ngaicamera #quayvideo #xaykenh #lamcontent
 
-### Instagram
+### Bản 2 · Kiến thức (IG)
 
-15 mẹo quay video cho người ngại camera, và vì sao chúng hiệu quả:
+Ngại camera phần lớn vì phải làm nhiều việc cùng lúc: nhớ lời, nhìn mình, lo hình. Bớt được việc nào thì quay dễ hơn việc đó. Ngoài 15 mẹo trong video:
 
-1. Trước khi quay: viết 3 ý chính dán cạnh camera để não không phải vừa nhớ vừa nói. Chọn 1 góc quen, đặt điện thoại ngang tầm mắt để bớt lo về hình.
-2. Lúc quay: nhìn camera như nhìn 1 người bạn để giọng tự nhiên hơn. Quay từng câu thay vì cả đoạn. Cầm cốc hoặc bút để tay có chỗ đặt.
-3. Sau khi quay: xem lại tối đa 2 lần để không rơi vào vòng chỉnh mãi không đăng. Cắt khoảng lặng đầu và cuối cho video gọn hơn.
+1. Ngồi quay mặt về phía cửa sổ. Ánh sáng đều trên mặt giúp hình đẹp mà không cần đèn.
+2. Quay trong phòng có nhiều đồ vải (rèm, chăn, tủ quần áo) để giọng bớt vang.
+3. Nói vài câu bất kỳ trước khi bấm quay để làm ấm giọng, câu đầu tiên sẽ tự nhiên hơn.
+4. Quay 1 bản nháp không định đăng. Bớt áp lực phải hoàn hảo, nhiều khi bản nháp lại dùng được.
 
-Chưa sẵn sàng lộ mặt? Dùng giọng nói + cảnh tay, hoặc chữ trên màn hình thay cho lời nói.
+Lưu lại cho lần quay tới.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
 #nguoihuongnoi #ngaicamera #quayvideo #xaykenh #contentcreator
 
@@ -249,236 +208,196 @@ Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các
 
 ## 22 · 50 ý tưởng content xây thương hiệu cá nhân
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-"Chưa có sản phẩm thì đăng gì bây giờ?" Đây là câu tui được hỏi nhiều nhất. [xác nhận]
+Nhiều người muốn làm kênh lắm, nhưng cứ nghĩ: mình chưa có sản phẩm, chưa có khoá học, đăng gì bây giờ? Rồi chờ, chờ đến khi "có cái gì đó" mới bắt đầu.
 
-Thật ra thương hiệu cá nhân không bắt đầu từ sản phẩm, mà từ việc người ta biết các sốp là ai, nghĩ gì, đang làm gì mỗi ngày.
+Thật ra thương hiệu cá nhân không bắt đầu từ sản phẩm. Nó bắt đầu từ việc người ta biết các sốp là ai, giỏi gì, nghĩ gì. Tui gom 50 ý tưởng chia 5 nhóm: kiến thức, hậu trường, quan điểm, hành trình và kết quả thật. Mỗi ngày 1 ý là đủ cả tháng.
 
-Video này là 50 ý tưởng chia 5 nhóm:
+Mẹo nhỏ: mở một ghi chú tên "Câu người ta hỏi tui". Ai hỏi gì về nghề của các sốp thì ghi lại ngay. Cuối tháng đó là danh sách ý tưởng đúng nhu cầu nhất.
 
-1. Kiến thức
-2. Hậu trường
-3. Quan điểm
-4. Hành trình
-5. Kết quả thật
+Không cần bán gì, cần người ta nhớ mình.
 
-Mỗi ngày chọn 1 ý là cả tháng không lo bí bài. Không cần bán gì, cần người ta nhớ mình.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#thuonghieucanhan #ytuongcontent #xaykenh #lamcontent #personalbranding
 
-#thuonghieucanhan #ytuongcontent #xaykenh #lamcontent
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Thương hiệu cá nhân là điều người ta nhớ về các sốp khi các sốp không có mặt. 50 ý tưởng nằm trong video, còn đây là 4 điều để dùng cho hiệu quả:
 
-5 nhóm content xây thương hiệu cá nhân, mỗi nhóm làm nhiệm vụ gì?
+1. Chọn 1 chủ đề chính và 2 chủ đề phụ, đừng nói về mọi thứ.
+2. Xen kẽ các nhóm trong tuần, ví dụ 2 bài kiến thức, 1 hậu trường, 1 quan điểm.
+3. Bài kết quả phải có thật. Xin phép khách và che tên, số điện thoại trước khi đăng.
+4. Sau 1 tháng xem lại: nhóm nào nhiều bình luận và lượt lưu nhất thì tháng sau làm nhiều hơn.
 
-1. Kiến thức: cho người xem lý do để theo dõi và lưu bài. Đây là nhóm xây uy tín.
-2. Hậu trường: cho người xem thấy con người thật phía sau, cả những lần làm hỏng.
-3. Quan điểm: điều các sốp đồng ý hay không đồng ý trong ngách. Nhóm này giúp các sốp khác người khác.
-4. Hành trình: mục tiêu, thử thách, bài học. Người xem sẽ theo dõi câu chuyện của các sốp.
-5. Kết quả thật: phản hồi khách, trước – sau, số liệu thật. Chỉ đăng kết quả có thật và che thông tin người khác.
+Lưu lại để mỗi ngày chọn 1 ý.
 
-Gợi ý tỉ lệ: kiến thức nhiều nhất, xen hậu trường và quan điểm, kết quả thỉnh thoảng, để kênh không biến thành trang quảng cáo.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#thuonghieucanhan #ytuongcontent #xaykenh #contentcreator
+#thuonghieucanhan #ytuongcontent #xaykenh #contentcreator #personalbranding
 
 ---
 
 ## 23 · Bí ý tưởng content? 30 kiểu bình luận biến thành video
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Những hôm bí ý tưởng, tui không lướt mạng tìm cảm hứng nữa. Tui mở phần bình luận ra đọc. [xác nhận]
+Những hôm bí ý tưởng, nhiều người lướt mạng tìm cảm hứng cả tiếng, rồi thấy ai cũng làm giống nhau. Trong khi ngay dưới video của mình, người xem đã để lại sẵn câu hỏi.
 
-Vì người xem đã viết sẵn kịch bản cho mình rồi: họ hỏi, họ phản đối, họ kể chuyện, họ xin làm thêm phần 2.
+Bình luận là kịch bản người xem viết sẵn cho mình: họ hỏi, họ phản đối, họ kể chuyện, họ xin phần 2. Tui liệt kê 30 kiểu bình luận và dạng video trả lời tương ứng cho từng kiểu.
 
-Ví dụ:
+Thêm 1 cách video chưa nói: TikTok cho trả lời bình luận bằng video, video mới sẽ hiện kèm bình luận gốc. Người xem thấy ngay câu hỏi, còn người đã bình luận cũng dễ quay lại xem.
 
-1. "Dùng ứng dụng gì vậy?" thành video quay màn hình
-2. "Nói thì dễ" thành video quay cảnh làm thật
-3. "Phần 2 đâu?" thành chuỗi video tập 2
+Mở bình luận nhiều nhất của mình ra và biến nó thành video tiếp theo nha.
 
-Video này có đủ 30 kiểu như vậy. Các sốp thử biến bình luận nhiều nhất của mình thành video tiếp theo nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#ytuongcontent #binhluan #xaykenh #lamcontent #tiktoktips
 
-#ytuongcontent #binhluan #xaykenh #lamcontent
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Trả lời bình luận bằng video là nguồn ý tưởng đúng nhu cầu nhất. 4 điều để làm tốt hơn:
 
-Vì sao trả lời bình luận bằng video là nguồn ý tưởng tốt nhất?
+1. Lấy nguyên câu bình luận làm câu mở đầu video. Người cùng thắc mắc sẽ dừng lại ngay.
+2. Bình luận phản đối cũng là ý tưởng: trả lời bình tĩnh, có ví dụ, không tranh cãi.
+3. Câu hỏi lặp lại nhiều lần thì làm thành video riêng và ghim lên đầu trang.
+4. Dùng chuyện người xem kể thì xin phép trước, không đưa tên hay ảnh đại diện của họ khi chưa được đồng ý.
 
-1. Đúng nhu cầu: câu hỏi trong bình luận là điều người xem thật sự muốn biết, không phải mình đoán.
-2. Có sẵn câu mở đầu: lấy luôn câu bình luận làm câu mở đầu video.
-3. Kéo người cũ quay lại: người bình luận và những người cùng thắc mắc sẽ xem tiếp.
+Người xem đã viết sẵn kịch bản, việc của mình là quay.
 
-3 nhóm bình luận cần chú ý:
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-1. Câu hỏi: làm video hướng dẫn, so sánh, lộ trình.
-2. Phản đối: giải thích kỹ hơn, làm phiên bản 0 đồng hoặc 10 phút, quay cảnh làm thật.
-3. Lời khen và chuyện riêng: làm bản đầy đủ hơn, video đồng cảm (kể lại chuyện người xem thì phải xin phép).
-
-Câu hỏi nào lặp lại nhiều lần thì làm thành video và ghim đầu trang.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#ytuongcontent #binhluan #xaykenh #contentcreator
+#ytuongcontent #binhluan #xaykenh #contentcreator #tiktoktips
 
 ---
 
 ## 24 · Thương hiệu cá nhân từ 0 trong 30 ngày
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Nghe "xây thương hiệu cá nhân" thấy to tát quá phải không các sốp? Tui cũng từng nghĩ vậy. [xác nhận]
+Nghe "xây thương hiệu cá nhân" ai cũng thấy to tát: phải có logo, có trang web, có hàng nghìn người theo dõi. Nghĩ tới đó là muốn để sau.
 
-Nhưng chia nhỏ ra thì mỗi ngày chỉ là 1 việc nhỏ: hôm nay viết 3 thứ mình giỏi, mai chọn 1 chủ đề, hôm sau viết 1 câu giới thiệu bản thân…
+Nhưng chia nhỏ ra thì mỗi ngày chỉ là 1 việc nhỏ: hôm nay viết 3 thứ mình giỏi, mai chọn 1 chủ đề, hôm sau viết 1 câu giới thiệu. Tui xếp thành lộ trình 30 ngày, đi theo 4 tuần: tìm ra mình, làm trang, đăng đều, kết nối.
 
-Video này là lộ trình 30 ngày, đi theo 4 tuần:
+Mẹo nhỏ: in lịch 30 ngày ra, dán chỗ hay nhìn, làm xong ngày nào gạch ngày đó. Nhìn dãy ngày đã gạch là có thêm động lực làm tiếp.
 
-1. Tìm ra mình
-2. Làm trang
-3. Đăng đều
-4. Kết nối
+Người ta nhớ người xuất hiện đều.
 
-Người ta nhớ người xuất hiện đều. Bắt đầu ngày 1 cùng tui nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#thuonghieucanhan #xaykenh #lotrinh30ngay #lamcontent #personalbranding
 
-#thuonghieucanhan #xaykenh #lotrinh30ngay #lamcontent
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Thương hiệu cá nhân là kết quả của việc làm đúng thứ tự và lặp lại. Ngoài 30 việc trong video, nên biết thêm:
 
-Vì sao lộ trình thương hiệu cá nhân phải đi đúng thứ tự?
+1. Câu giới thiệu tốt có 3 phần: giúp ai, làm được gì, bằng cách nào.
+2. Dùng cùng 1 tên và 1 ảnh đại diện trên mọi nền tảng để người ta tìm được nhau.
+3. Kết nối đúng cách là để lại bình luận có nội dung ở trang cùng ngách, không chỉ một câu "hay quá".
+4. Ghi lại số liệu cuối mỗi tuần (lượt xem, lượt lưu, tin nhắn) để thấy mình đi được bao xa sau 30 ngày.
 
-1. Tuần 1, tìm ra mình: chưa rõ mình giúp ai, làm gì thì đăng bao nhiêu cũng rời rạc. Câu "tôi giúp ai, làm gì" là gốc của mọi bài sau.
-2. Tuần 2, làm trang: tên dễ tìm, giới thiệu 1 câu, ảnh bìa đồng bộ, 3 bài ghim. Người lạ ghé trang lần đầu cần hiểu các sốp trong vài giây.
-3. Tuần 3, đăng đều: kiến thức, hậu trường, quan điểm. Cuối tuần xem số liệu, giữ dạng bài người xem thích.
-4. Tuần 4, kết nối: bình luận ở trang cùng ngách, hỏi người xem muốn xem gì, rồi làm đúng điều họ xin.
+Lưu lại và làm theo từng ngày.
 
-Ngày 29 nhớ viết lại câu giới thiệu: sau 4 tuần các sốp sẽ hiểu mình rõ hơn ngày đầu.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#thuonghieucanhan #xaykenh #lotrinh30ngay #contentcreator
+#thuonghieucanhan #xaykenh #lotrinh30ngay #contentcreator #personalbranding
 
 ---
 
 ## 25 · 12 thứ trên trang cá nhân khiến người lạ bấm theo dõi
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Các sốp có để ý không: xem được một video hay, việc đầu tiên mình làm là bấm vào trang người đó xem thử.
+Xem được một video hay, việc đầu tiên mình làm là gì? Bấm vào trang người đó xem thử. Và chỉ lướt vài giây, mình đã quyết định có theo dõi hay không.
 
-Chỉ trong vài giây lướt trang, mình quyết định có theo dõi hay không. Người xem trang của các sốp cũng y như vậy.
+Người lạ vào trang của các sốp cũng vậy. Tui gom 12 thứ trên trang cá nhân cần sửa, từ ảnh đại diện, tên trang, dòng giới thiệu đến video ghim và màu sắc cả lưới. Sửa hết trong 1 buổi là xong.
 
-Video này là 12 thứ trên trang cá nhân cần sửa, từ ảnh đại diện, tên trang, dòng giới thiệu đến 3 video ghim và màu sắc cả lưới. Sửa hết trong 1 buổi là xong.
+Cách kiểm tra không có trong video: nhờ 1 người chưa từng xem kênh của các sốp lướt trang 5 giây, rồi hỏi "kênh này nói về gì?". Họ trả lời đúng là trang đã rõ.
 
 Các sốp tự chấm trang mình được mấy trên 12 nha.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-#thuonghieucanhan #trangcanhan #xaykenh #lamcontent
+#thuonghieucanhan #trangcanhan #xaykenh #lamcontent #tiktoktips
 
-### Instagram
+### Bản 2 · Kiến thức (IG)
 
-12 điểm trên trang cá nhân, giải thích nhanh từng phần.
+Trang cá nhân là nơi người lạ quyết định có theo dõi hay không. Ngoài 12 điểm trong video:
 
-Phần đầu trang:
+1. Tên trang nên giống nhau trên mọi nền tảng, tránh số và dấu gạch dưới khó nhớ khi đọc miệng.
+2. Dòng giới thiệu nên đặt từ khoá ngách lên đầu, vì người lướt thường chỉ đọc vài chữ đầu.
+3. Đổi video ghim khi có bài mới tốt hơn, đừng ghim mãi một bài từ ngày đầu.
+4. Xem trang của mình bằng một tài khoản khác để thấy đúng thứ người lạ nhìn thấy.
 
-1. Ảnh đại diện rõ, nền sáng: nhìn nhỏ trong bình luận vẫn nhận ra.
-2. Tên trang dễ đọc, dễ gõ: người ta tìm lại được các sốp.
-3. Tên hiển thị có từ khoá ngách: người lạ biết ngay các sốp làm gì.
-4. Dòng giới thiệu "giúp ai + làm gì".
-5. 1 lý do để theo dõi ngay.
-6. Liên kết dẫn đúng 1 chỗ, đừng để nhiều lựa chọn.
+Sửa xong thì chụp lại trang, 1 tháng sau so sánh.
 
-Lưới video:
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-1. 3 video ghim: giới thiệu, bài hay nhất, kết quả.
-2. Ảnh bìa cùng 1 kiểu.
-3. Chữ trên ảnh bìa đọc được.
-4. Màu sắc thống nhất cả lưới.
-5. Nhìn 9 video đầu là biết chủ đề kênh.
-6. Bài mới nhất không quá cũ, để trang trông còn hoạt động.
-
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#thuonghieucanhan #trangcanhan #xaykenh #contentcreator
+#thuonghieucanhan #trangcanhan #xaykenh #contentcreator #tiktoktips
 
 ---
 
 ## 26 · Video bị bóp view? 20 lỗi cần kiểm tra
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-"Chắc bị thuật toán bóp rồi." Câu này tui nghe nhiều lắm, và chính tui cũng từng nói. [xác nhận]
+Video trước được vài nghìn lượt xem, video này chỉ vài trăm. Câu đầu tiên bật ra thường là: "Chắc bị bóp rồi".
 
-Nhưng nhiều khi video ít view không phải do bị bóp, mà do vài lỗi nhỏ mình không để ý: 2 giây đầu chưa vào ý chính, chữ bị nút bấm che mất, nhạc to át giọng nói…
+Nhưng nhiều khi không phải bị bóp, mà do vài lỗi nhỏ mình không để ý: 2 giây đầu chưa vào ý chính, chữ bị nút bấm che mất, nhạc to át giọng nói. Tui gom 20 lỗi chia 4 nhóm để các sốp tự kiểm tra trong 5 phút.
 
-Video này là 20 lỗi chia 4 nhóm để các sốp tự kiểm tra trong 5 phút:
+Mẹo nhỏ: xem lại video của mình trên điện thoại đúng như người xem, mở ứng dụng, để âm lượng vừa phải. Nhiều lỗi chữ bị che chỉ thấy khi xem kiểu này.
 
-1. Câu mở đầu
-2. Hình ảnh
-3. Chữ và âm thanh
-4. Thói quen đăng
+Đừng sửa tất cả cùng lúc. Sửa từng lỗi một rồi so kết quả.
 
-Đừng sửa tất cả cùng lúc. Sửa từng lỗi một rồi so kết quả nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+#thuattoan #bopview #xaykenh #lamcontent #tiktoktips
 
-#thuattoan #bopview #xaykenh #lamcontent
+### Bản 2 · Kiến thức (IG)
 
-### Instagram
+Trước khi nghĩ tới thuật toán, kiểm tra những thứ mình làm chủ được. Ngoài 20 lỗi trong video:
 
-Trước khi nghĩ "bị bóp view", các sốp kiểm tra 4 nhóm này:
+1. So sánh trong cùng kênh và cùng dạng video. So với kênh khác hay dạng khác dễ hiểu sai.
+2. Một video thấp chưa nói lên gì. Nhìn xu hướng của 5 đến 10 video gần nhất.
+3. Xem nguồn lượt xem trong phần số liệu: lượt xem chủ yếu từ người theo dõi mà ít từ trang đề xuất thì video chưa giữ được người lạ.
+4. Đăng nhiều nền tảng thì dùng file gốc. Instagram từng nói sẽ ít đề xuất video mang logo của ứng dụng khác.
 
-1. Câu mở đầu: 2 giây đầu phải vào ý chính, không chào hỏi, nói rõ người xem được gì. Hình đầu sáng, rõ, không rung.
-2. Hình ảnh: quay dọc ngay từ đầu (cắt từ ngang dễ mất nét), đủ sáng, có chuyển động hoặc đổi cảnh, video không dài hơn nội dung cần.
-3. Chữ và âm thanh: đặt chữ tránh vùng nút bấm và mô tả (cạnh phải và đáy màn hình), chữ đủ to, giọng rõ hơn nhạc, có phụ đề khi nói nhanh.
-4. Thói quen đăng: giữ chủ đề nhất quán, đăng đều thay vì dồn, trả lời bình luận sớm, mô tả có từ khoá chủ đề.
+Sửa từng lỗi một để biết lỗi nào thật sự ảnh hưởng.
 
-Lưu ý: dấu mờ của ứng dụng khác hay xoá rồi đăng lại liên tục là kinh nghiệm người làm nghề chia sẻ, nền tảng chưa công bố chính thức. Tránh để an toàn.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#thuattoan #bopview #xaykenh #contentcreator
+#thuattoan #bopview #xaykenh #contentcreator #tiktoktips
 
 ---
 
 ## 27 · Thuật toán tìm kiếm: 10 chỗ đặt từ khoá
 
-### Facebook
+### Bản 1 · Kể chuyện (FB)
 
-Bây giờ nhiều người không chỉ lướt, mà còn gõ tìm ngay trên ứng dụng video: "cách làm bánh không cần lò", "quay video bằng điện thoại"…
+Muốn học cách làm một món, cách chỉnh một tấm ảnh, nhiều người giờ gõ ngay vào ô tìm kiếm trên TikTok thay vì Google, vì muốn xem người thật làm.
 
-Vậy khi người ta gõ, làm sao để video của các sốp hiện ra? Bí quyết là: người ta gõ chữ gì, mình nói đúng chữ đó.
+Vậy khi người ta gõ, video của các sốp có hiện ra không? Bí quyết là người ta gõ chữ gì, mình nói đúng chữ đó. Tui chỉ 10 chỗ nên đặt từ khoá: 5 chỗ trong video và 5 chỗ ngoài video.
 
-Video này chỉ 10 chỗ nên đặt từ khoá, chia 2 nhóm:
+Cách tìm từ khoá đơn giản nhất: gõ chủ đề vào ô tìm kiếm và đọc các gợi ý hiện ra bên dưới. Đó là những gì người ta đang gõ thật.
 
-1. 5 chỗ trong video: câu nói đầu, chữ trên màn hình, ảnh bìa…
-2. 5 chỗ ngoài video: mô tả, thẻ #, bình luận ghim…
+Thử ngay với chủ đề video tiếp theo của các sốp.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-#thuattoan #timkiem #tukhoa #xaykenh
+#thuattoan #timkiem #tukhoa #seotiktok #xaykenh
 
-### Instagram
+### Bản 2 · Kiến thức (IG)
 
-Đặt từ khoá thế nào cho tự nhiên?
+Từ khoá giúp video có thêm đường đến với người xem, ngoài trang đề xuất. 4 điều nên biết thêm:
 
-1. Tìm từ khoá: gõ chủ đề vào ô tìm kiếm, xem các gợi ý hiện ra. Đó là cách người xem thật sự gõ.
-2. Đặt trong video: nói từ khoá ngay câu đầu, để chữ lớn trên màn hình có từ khoá, bật phụ đề tự động.
-3. Đặt ngoài video: dòng đầu mô tả, 3–5 thẻ # đúng chủ đề, bình luận ghim nhắc lại từ khoá.
-4. Đặt trên trang: tên hiển thị và dòng giới thiệu có từ khoá ngách.
+1. Mỗi video chọn 1 từ khoá chính, nhắc lại tự nhiên ở lời nói, chữ trên màn hình và dòng đầu mô tả.
+2. Làm chuỗi 3 đến 5 video cùng từ khoá để kênh được hiểu là chuyên về chủ đề đó.
+3. Xem nguồn lượt xem trong phần số liệu: lượt từ "Tìm kiếm" tăng dần là từ khoá đang có tác dụng.
+4. Việc nền tảng đọc lời nói và chữ trên màn hình chủ yếu do người làm nghề chia sẻ, chưa có công bố chính thức. Đặt từ khoá tự nhiên, đừng nhồi.
 
-Viết tự nhiên, đúng nội dung video, đừng nhồi cùng 1 từ nhiều lần.
+Người ta gõ chữ gì, mình nói đúng chữ đó.
 
-Việc nền tảng đọc lời nói và chữ trên màn hình để xếp kết quả tìm kiếm chủ yếu do người làm nghề chia sẻ, chưa có công bố chính thức. Đặt từ khoá là cách làm an toàn, không phải cam kết kết quả.
+Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.
 
-Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.
-
-#thuattoan #timkiem #tukhoa #xaykenh #contentcreator
+#thuattoan #timkiem #tukhoa #seotiktok #xaykenh

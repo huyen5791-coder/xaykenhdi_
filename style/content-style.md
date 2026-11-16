@@ -44,18 +44,25 @@ Ba trụ chủ đề:
 - Không lan man, không ẩn ý, không kể chuyện vòng vo.
 
 ## CTA
-- **CTA chính thức (chốt 16/11):** *Bình luận "AI" hoặc "FILE" để tui gửi tài liệu miễn phí cho các sốp nha.* Dùng cho caption; video dùng bản ngắn khi chủ kênh muốn.
+- **CTA chính thức (chốt 16/11):** *Comment "AI" hoặc "FILE", tui gửi các sốp tài liệu miễn phí.* Dùng cho caption; video dùng bản ngắn khi chủ kênh muốn.
 - Mẫu đã dùng: *Follow và cmt "PLAN" nhận bộ tài liệu hướng dẫn xây kênh nhé*.
 - **Không tự thêm CTA** khi chủ kênh không đưa. Khi viết nội dung mới: đề xuất 1 dòng CTA và ghi rõ "(đề xuất, chờ duyệt)" + từ khoá cần chủ kênh có tài liệu thật để gửi.
 
 ## Caption đăng
 2–3 câu: nhắc lại lợi ích + CTA (nếu có) + 3–5 hashtag (#xaykenh #tiktoktips #kenhgiaumat …).
 
-## Caption 2 nền tảng (chủ kênh chốt 16/11)
-Mỗi video viết 2 bản, lưu ở `captions/` + 1 Google Doc trên Drive:
-- **FB — thân thiện, kể chuyện:** mở bằng tình huống người xem từng gặp hoặc chuyện của tui (**[xác nhận]** nếu là trải nghiệm riêng), tóm ý video, kết bằng CTA. 3–4 hashtag.
-- **IG — bổ sung kiến thức:** giải thích VÌ SAO / CÁCH DÙNG điều trong video, thêm 1 mẹo hoặc bài tập; điều chưa có nguồn chính thức ghi rõ là kinh nghiệm. CTA + 4–5 hashtag.
-- **Trình bày:** mỗi ý 1 đoạn, cách nhau 1 dòng trống. Liệt kê bằng số **1. 2. 3.**, không dùng icon tràn lan (tối đa 0–1 icon). Xưng "tui", gọi "các sốp".
+## Caption 2 bản (chủ kênh chốt 16/11 — mẫu: https://claude.ai/artifact/QPK1dVskYcHhrWTPNefmki)
+Lưu ở `captions/` + 1 Google Doc trên Drive. Không icon. Xưng "tui", gọi "các sốp".
+**Bản 1 · Kể chuyện (FB)** — 5 đoạn, không danh sách:
+1. Cảnh quen thuộc người xem từng gặp (tình huống chung, KHÔNG bịa chuyện riêng của tui; có chuyện thật thì chủ kênh thay vào).
+2. Video này có gì (tóm ý, nhắc số mục / nhóm).
+3. 1 mẹo KHÔNG có trong video ("Mẹo nhỏ không kịp ghi trong video: …").
+4. 1 câu hành động ngắn (lưu lại / thử ngay / tự chấm).
+5. CTA + 5 hashtag.
+**Bản 2 · Kiến thức (IG)** — như 1 trang phụ của video:
+1. 1 câu đi thẳng vào vấn đề + "Ngoài … trong video, nên biết thêm:".
+2. Danh sách **4 ý đánh số 1–4**, kiến thức mới, không lặp lại video; điều chưa có nguồn chính thức ghi rõ.
+3. 1 câu chốt → CTA → 5 hashtag.
 
 ## Carousel
 _Chưa có dữ liệu từ đoạn chat carousel._ Khi chủ kênh gửi tóm tắt hoặc link artifact, bổ sung mục này (số slide, bố cục, font, cách đặt hook slide 1, slide CTA).
